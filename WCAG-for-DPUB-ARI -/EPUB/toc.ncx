@@ -263,11 +263,6 @@
         </navPoint>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-42">
-      <navLabel>
-        <text>List of pages</text>
-      </navLabel>
-      <content src="text/ch003.xhtml" />
-    </navPoint>
+    
   </navMap>
 </ncx>

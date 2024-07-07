@@ -79,10 +79,7 @@
       id="ch002_xhtml"
       href="text/ch002.xhtml"
       media-type="application/xhtml+xml" />
-    <item
-      id="ch003_xhtml"
-      href="text/ch003.xhtml"
-      media-type="application/xhtml+xml" />
+    
     <item
       properties="cover-image"
       id="cover_jpg"
@@ -230,8 +227,7 @@
       idref="ch001_xhtml" />
     <itemref
       idref="ch002_xhtml" />
-    <itemref
-      idref="ch003_xhtml" />
+    
   </spine>
   <guide>
     <reference

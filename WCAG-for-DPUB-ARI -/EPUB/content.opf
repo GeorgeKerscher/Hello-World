@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<package
+  version="3.0" xmlns="http://www.idpf.org/2007/opf"
+  unique-identifier="epub-id-1"
+  prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/"
+  xml:lang="en-us">
+  <opf:metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier
+      id="epub-id-1">urn:uuid:587b063b-10b9-4153-a67a-f1c532a553f1</dc:identifier>
+    <dc:title
+      id="epub-title-1">WCAG</dc:title>
+    <opf:meta
+      property="title-type"
+      refines="#epub-title-1">main</opf:meta>
+    <dc:date
+      id="epub-date">2024-07-06</dc:date>
+    <dc:language>en-us</dc:language>
+    <dc:creator
+      id="epub-creator-1">No author</dc:creator>
+    <opf:meta
+      name="cover"
+      content="cover_jpg" />
+    <opf:meta
+      property="dcterms:modified">2024-07-06T16:44:03Z</opf:meta>
+    <dc:source
+      id="src-id">The Word document was used as the source for page numbers.</dc:source>
+    <opf:meta
+      property="source-of"
+      refines="#src-id">pagination</opf:meta>
+    <opf:meta
+      property="schema:accessibilitySummary">The publication contains structural and page navigation. Alt text is included for images if this was present in source Word document.</opf:meta>
+    <opf:meta
+      property="schema:accessMode">textual</opf:meta>
+    <opf:meta
+      property="schema:accessMode">visual</opf:meta>
+    <opf:meta
+      property="schema:accessModeSufficient">textual</opf:meta>
+    <opf:meta
+      property="schema:accessibilityFeature">structuralNavigation</opf:meta>
+    <opf:meta
+      property="schema:accessibilityFeature">displayTransformability</opf:meta>
+    <opf:meta
+      property="schema:accessibilityFeature">readingOrder</opf:meta>
+    <opf:meta
+      property="schema:accessibilityFeature">tableOfContents</opf:meta>
+    <opf:meta
+      property="schema:accessibilityFeature">unlocked</opf:meta>
+    <opf:meta
+      property="schema:accessibilityFeature">printPageNumbers</opf:meta>
+    <opf:meta
+      property="schema:accessibilityFeature">alternativeText</opf:meta>
+    <opf:meta
+      property="schema:accessibilityHazard">none</opf:meta>
+  </opf:metadata>
+  <manifest>
+    <item
+      id="ncx"
+      href="toc.ncx"
+      media-type="application/x-dtbncx+xml" />
+    <item
+      id="nav"
+      href="nav.xhtml"
+      media-type="application/xhtml+xml"
+      properties="nav" />
+    <item
+      id="stylesheet1"
+      href="styles/wordtoepub.css"
+      media-type="text/css" />
+    <item
+      id="title_page_xhtml"
+      href="text/title_page.xhtml"
+      media-type="application/xhtml+xml" />
+    <item
+      id="ch001_xhtml"
+      href="text/ch001.xhtml"
+      media-type="application/xhtml+xml" />
+    <item
+      id="ch002_xhtml"
+      href="text/ch002.xhtml"
+      media-type="application/xhtml+xml" />
+    
+    <item
+      properties="cover-image"
+      id="cover_jpg"
+      href="media/cover.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file32_jpg"
+      href="media/file32.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file31_jpg"
+      href="media/file31.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file30_jpg"
+      href="media/file30.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file29_jpg"
+      href="media/file29.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file28_jpg"
+      href="media/file28.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file27_jpg"
+      href="media/file27.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file26_jpg"
+      href="media/file26.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file25_jpg"
+      href="media/file25.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file24_jpg"
+      href="media/file24.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file23_jpg"
+      href="media/file23.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file22_jpg"
+      href="media/file22.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file21_jpg"
+      href="media/file21.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file20_jpg"
+      href="media/file20.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file19_jpg"
+      href="media/file19.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file18_jpg"
+      href="media/file18.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file17_jpg"
+      href="media/file17.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file16_jpg"
+      href="media/file16.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file15_jpg"
+      href="media/file15.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file14_jpg"
+      href="media/file14.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file13_jpg"
+      href="media/file13.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file12_jpg"
+      href="media/file12.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file11_jpg"
+      href="media/file11.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file10_jpg"
+      href="media/file10.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file9_jpg"
+      href="media/file9.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file8_jpg"
+      href="media/file8.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file7_jpg"
+      href="media/file7.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file6_jpg"
+      href="media/file6.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file5_jpg"
+      href="media/file5.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file4_jpg"
+      href="media/file4.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file3_jpg"
+      href="media/file3.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file2_jpg"
+      href="media/file2.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file1_jpg"
+      href="media/file1.jpg"
+      media-type="image/jpeg" />
+    <item
+      id="file0_jpg"
+      href="media/file0.jpg"
+      media-type="image/jpeg" />
+  </manifest>
+  <spine
+    toc="ncx">
+    <itemref
+      idref="title_page_xhtml"
+      linear="no" />
+    <itemref
+      idref="ch001_xhtml" />
+    <itemref
+      idref="ch002_xhtml" />
+    
+  </spine>
+  <guide>
+    <reference
+      type="toc"
+      title="WCAG"
+      href="nav.xhtml" />
+  </guide>
+</package>

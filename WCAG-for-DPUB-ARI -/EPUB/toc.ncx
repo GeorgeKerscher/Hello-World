@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:587b063b-10b9-4153-a67a-f1c532a553f1" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="cover_jpg" />
+  </head>
+  <docTitle>
+    <text>WCAG</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text></text>
+      </navLabel>
+      <content src="text/title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Senior Consultants</text>
+      </navLabel>
+      <content src="text/ch001.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>UNIT 1 - INTRODUCTION TO WORLD CULTURES AND GEOGRAPHY</text>
+      </navLabel>
+      <content src="text/ch002.xhtml" />
+      <navPoint id="navPoint-3">
+        <navLabel>
+          <text>CHAPTER 1 - Welcome to the World</text>
+        </navLabel>
+        <content src="text/ch002.xhtml#chapter-1---welcome-to-the-world" />
+        <navPoint id="navPoint-4">
+          <navLabel>
+            <text>FOCUS ON GEOGRAPHY</text>
+          </navLabel>
+          <content src="text/ch002.xhtml#focus-on-geography" />
+        </navPoint>
+        <navPoint id="navPoint-5">
+          <navLabel>
+            <text>READING SOCIAL STUDIES</text>
+          </navLabel>
+          <content src="text/ch002.xhtml#reading-social-studies" />
+          <navPoint id="navPoint-6">
+            <navLabel>
+              <text>BEFORE YOU READ</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#before-you-read" />
+          </navPoint>
+          <navPoint id="navPoint-7">
+            <navLabel>
+              <text>READ AND TAKE NOTES</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#read-and-take-notes" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-8">
+          <navLabel>
+            <text>SECTION 1 - The World at Your Fingertips</text>
+          </navLabel>
+          <content src="text/ch002.xhtml#section-1---the-world-at-your-fingertips" />
+          <navPoint id="navPoint-9">
+            <navLabel>
+              <text>The Peoples of the World</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#the-peoples-of-the-world" />
+          </navPoint>
+          <navPoint id="navPoint-10">
+            <navLabel>
+              <text>Learning About the World</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#learning-about-the-world" />
+          </navPoint>
+          <navPoint id="navPoint-11">
+            <navLabel>
+              <text>History and Geography</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#history-and-geography" />
+            <navPoint id="navPoint-12">
+              <navLabel>
+                <text>The Five Themes of Geography</text>
+              </navLabel>
+              <content src="text/ch002.xhtml#the-five-themes-of-geography" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="navPoint-13">
+            <navLabel>
+              <text>Government</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#government" />
+            <navPoint id="navPoint-14">
+              <navLabel>
+                <text>Limited and Unlimited Governments</text>
+              </navLabel>
+              <content src="text/ch002.xhtml#limited-and-unlimited-governments" />
+            </navPoint>
+            <navPoint id="navPoint-15">
+              <navLabel>
+                <text>Citizenship</text>
+              </navLabel>
+              <content src="text/ch002.xhtml#citizenship" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="navPoint-16">
+            <navLabel>
+              <text>Economics</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#economics" />
+            <navPoint id="navPoint-17">
+              <navLabel>
+                <text>Resources</text>
+              </navLabel>
+              <content src="text/ch002.xhtml#resources" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="navPoint-18">
+            <navLabel>
+              <text>Kinds of Economics</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#kinds-of-economics" />
+            <navPoint id="navPoint-19">
+              <navLabel>
+                <text>Levels of Development</text>
+              </navLabel>
+              <content src="text/ch002.xhtml#levels-of-development" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="navPoint-20">
+            <navLabel>
+              <text>Culture</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#culture" />
+          </navPoint>
+          <navPoint id="navPoint-21">
+            <navLabel>
+              <text>SECTION 1 ASSESSMENT</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#section-1-assessment" />
+          </navPoint>
+          <navPoint id="navPoint-22">
+            <navLabel>
+              <text>Interdisciplinary Challenge: Investigate Your World</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#interdisciplinary-challenge-investigate-your-world" />
+            <navPoint id="navPoint-23">
+              <navLabel>
+                <text>HISTORY/ECONOMICS CHALLENGE</text>
+              </navLabel>
+              <content src="text/ch002.xhtml#historyeconomics-challenge" />
+            </navPoint>
+            <navPoint id="navPoint-24">
+              <navLabel>
+                <text>LANGUAGE ARTS CHALLENGE</text>
+              </navLabel>
+              <content src="text/ch002.xhtml#language-arts-challenge" />
+            </navPoint>
+            <navPoint id="navPoint-25">
+              <navLabel>
+                <text>DATA FILE</text>
+              </navLabel>
+              <content src="text/ch002.xhtml#data-file" />
+            </navPoint>
+            <navPoint id="navPoint-26">
+              <navLabel>
+                <text>Activity Wrap-Up</text>
+              </navLabel>
+              <content src="text/ch002.xhtml#activity-wrap-up" />
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-27">
+          <navLabel>
+            <text>SECTION 2 - Many Regions, Many Cultures</text>
+          </navLabel>
+          <content src="text/ch002.xhtml#section-2---many-regions-many-cultures" />
+          <navPoint id="navPoint-28">
+            <navLabel>
+              <text>Different Places, Different Cultures</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#different-places-different-cultures" />
+            <navPoint id="navPoint-29">
+              <navLabel>
+                <text>The World&#39;s Culture Regions</text>
+              </navLabel>
+              <content src="text/ch002.xhtml#the-worlds-culture-regions" />
+            </navPoint>
+            <navPoint id="navPoint-30">
+              <navLabel>
+                <text>Culture Regions Change</text>
+              </navLabel>
+              <content src="text/ch002.xhtml#culture-regions-change" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="navPoint-31">
+            <navLabel>
+              <text>SECTION 2 ASSESSMENT</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#section-2-assessment" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-32">
+          <navLabel>
+            <text>SKILLBUILDER: Reading a Time Zone Map</text>
+          </navLabel>
+          <content src="text/ch002.xhtml#skillbuilder-reading-a-time-zone-map" />
+          <navPoint id="navPoint-33">
+            <navLabel>
+              <text>Defining the Skill</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#defining-the-skill" />
+          </navPoint>
+          <navPoint id="navPoint-34">
+            <navLabel>
+              <text>Applying the Skill</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#applying-the-skill" />
+          </navPoint>
+          <navPoint id="navPoint-35">
+            <navLabel>
+              <text>Practicing the Skill</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#practicing-the-skill" />
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-36">
+          <navLabel>
+            <text>LITERATURE CONNECTIONS</text>
+          </navLabel>
+          <content src="text/ch002.xhtml#literature-connections" />
+        </navPoint>
+        <navPoint id="navPoint-37">
+          <navLabel>
+            <text>CHAPTER 1 - ASSESSMENT</text>
+          </navLabel>
+          <content src="text/ch002.xhtml#chapter-1---assessment" />
+          <navPoint id="navPoint-38">
+            <navLabel>
+              <text>Visual Summary</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#visual-summary" />
+          </navPoint>
+          <navPoint id="navPoint-39">
+            <navLabel>
+              <text>SOCIAL STUDIES SKILLBUILDER</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#social-studies-skillbuilder" />
+          </navPoint>
+          <navPoint id="navPoint-40">
+            <navLabel>
+              <text>FOCUS ON GEOGRAPHY</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#focus-on-geography-1" />
+          </navPoint>
+          <navPoint id="navPoint-41">
+            <navLabel>
+              <text>CHAPTER PROJECTS</text>
+            </navLabel>
+            <content src="text/ch002.xhtml#chapter-projects" />
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    
+  </navMap>
+</ncx>

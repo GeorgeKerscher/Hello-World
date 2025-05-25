@@ -44,6 +44,12 @@
         a:hover {
             text-decoration: underline;
         }
+        aside {
+              border-left: 0.3rem solid rgb(240,240,240);
+              padding-left: 1rem
+}
+
+
     </style>
 </head>
 <body>
@@ -69,9 +75,9 @@
 
                  <h2>Key Accessibility Metadata Items</h2>
 
-                 <aside title="Publisher claims">
+                 <div class="note">
          <p>It is important to emphasize that accessibility metadata comes from the publisher and identifies the accessibility <strong>claims</strong> made by the publisher about their content. The overall accessible reading experience will depend on the reading system used to present the content, e.g., Both the content and the reading system must support selection of font size for the text to be displayed in a larger font.</p>
-         </aside>
+         </div>
 
 
         <p>Key pieces of accessibility metadata provide critical insights into a publication's usability. Some important items include:</p>
@@ -81,8 +87,7 @@
                 <ul>
                     <li><strong>Alt Text for Images:</strong> Descriptive text for images, crucial for users who cannot see the images.</li>
                     <li><strong>Captions/Subtitles:</strong> For audio and video content, benefiting deaf or hard-of-hearing readers.</li>
-                    <li><strong>Audio Descriptions:</strong> Narration of visual elements in multimedia for users with visual impairments.</li>
-                    <li><strong>Transcripts:</strong> Text alternatives for audio-only content.</li>
+                                        <li><strong>Transcripts:</strong> Text alternatives for audio-only content.</li>
                 </ul>
             </li>
             <li><strong>Navigation:</strong> Details the presence and usability of features like a fully accessible table of contents, in-book navigation, logical reading order, and print-equivalent page numbers.</li>
@@ -98,10 +103,12 @@
         <h2>Empowering Persons with Disabilities to Identify Usable Titles</h2>
         <p>For individuals with disabilities, accessibility metadata is an invaluable tool for making informed choices about digital content. Before purchasing or accessing a title, they can review the metadata to determine if it aligns with their specific accessibility needs and the capabilities of their assistive technology. For instance, a user relying on a screen reader can check if a book has proper semantic markup, alternative text for images, and a logical reading order. Someone with a visual impairment can verify if the text can be reflowed and if color contrast adjustments are supported.</p>
         <p>This transparency enables users to avoid content that might pose barriers, saving them time and frustration, and ensuring they can engage effectively with their learning materials.</p>
-
-        <aside title="Example of descriptive statements">
-
-        <div><p>Note: The example  below shows descriptive statements that would commonly be displayed for a highly accessible title.</p></div>
+</section>
+<section>
+<h2> Examples of Descriptive and compact accessibility statements</h2>
+   <p> When deciding on how to best present accessibility metadata, website developers have options available to them that can align with the look and feel of their website. The guidelines were developed to be flexible and define a descriptive collection of statements and a compact set that communicates the same information in a more compact way. The  suggested statements have been developed and published for worldwide adoption. At the time of this publication, more than thirty language translations have been made openly available . </p>
+<aside title="Descriptive view of accessibility metadata">
+<p>This example  shows descriptive statements that would commonly be displayed for a highly accessible title.</p>
 
 <h3>        Ways of reading</h3>
 <p>Appearance of the text and page layout can be modified according to the capabilities of the reading system (font family and font size, spaces between paragraphs, sentences, words, and letters, as well as color of background and text).</p>
@@ -136,7 +143,7 @@
 </aside>
 
 <aside title="Compact view of accessibility metadata">
-<div><p>Note: The example  below shows compact statements that would commonly be displayed for a highly accessible title. These compact statements are generated from the same metadata as the descriptive statements above. People may be able to choose to view the descriptive or the compact statement depending on how the presentation of accessibility information is designed.</p></div>
+<div><p>Note: This example  shows compact statements that would commonly be displayed for a highly accessible title. These compact statements are generated from the same metadata as the descriptive statements above. People may be able to choose to view the descriptive or the compact statement depending on how the presentation of accessibility information is designed.</p></div>
 <h3>Ways of reading</h3>
 <p>Appearance can be modified.</p>
 <p>Readable in read aloud or dynamic braille.</p>
@@ -190,12 +197,12 @@
         <ul>
             <li><strong>Compliance and Risk Mitigation:</strong> By prioritizing titles with robust accessibility metadata and certifications, districts can ensure compliance with regulations, reduce the risk of legal challenges, and protect federal funding.</li>
             <li><strong>Equitable Access:</strong> Selecting accessible titles ensures that every student has an equal opportunity to learn and succeed, fostering a more inclusive educational system.</li>
-            <li><strong>Vendor Partnerships:</strong> Districts should partner with content providers and platforms that are committed to accessibility and provide transparent, verifiable accessibility metadata. Some institutions even require independent third-party certification of content before purchasing.</li>
+            <li><strong>Vendor Partnerships:</strong> Districts should partner with content providers and platforms that are committed to accessibility and provide transparent, verifiable accessibility metadata. Some institutions require independent third-party certification of content before purchasing.</li>
             <li><strong>Long-Term Strategy:</strong> Incorporating accessibility considerations, guided by metadata, into content selection is a future-proof strategy that prevents costly retrofits and promotes a culture of inclusivity.</li>
         </ul>
     </section>
 
-    <footer>
+<section>
     <h2>Resources</h2>
         <p>For more detailed information, consider exploring resources from:</p>
         <ul>
@@ -205,13 +212,14 @@
             <li><a href="https://dubbot.com/dubblog/2025/accessibility-metadata-what-it-is-and-why-it-matters.html" target="_blank" title="DubBot Accessibility Metadata Explained">Accessibility Metadata: What it is and Why it Matters - DubBot</a></li>
             <li><a href="https://accessinghigherground.org/unlocking-accessible-education-interpreting-accessibility-metadata-for-inclusive-learning/" target="_blank" title="Accessing Higher Ground - Unlocking Accessible Education">Unlocking Accessible Education: Interpreting Accessibility Metadata for Inclusive Learning</a></li>
             <li><a href="https://verbit.ai/education-elearning/how-schools-can-start-prepping-for-upcoming-ada-title-ii-updates/" target="_blank" title="Verbit - ADA Title II Updates for Schools">How schools can start prepping for upcoming ADA Title II updates - Verbit</a></li>
+            <li><a href="https://www.fondazionelia.org">LIA Foundation – Italian Accessible Books (LIA)</a></li>
             <li><a href="https://bornaccessible.benetech.org/faqs/" target="_blank" title="Benetech Born Accessible FAQs">Frequently Asked Questions - Born Accessible - Benetech</a></li>
             <li><a href="https://benetech.org/education-access-and-compliance/benetech-accessibility-services-for-education/">Benetech Accessibility Services for Education (BASE)</a></li>
         </ul>
         <p>This article synthesizes information on accessibility metadata in digital publishing, drawing on publicly available resources from organizations such as the W3C, VitalSource, Benetech, and other industry sources focusing on digital accessibility. George Kerscher created this article with the assistance of AI. The DAISY team carefully reviewed the final article for accuracy and authenticity. </p>
 
 
-    </footer>
+    </section>
 
 </body>
 </html>

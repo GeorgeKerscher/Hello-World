@@ -1,6 +1,5 @@
 # GitHub issue training for screen reader users
-
-One of the first uses of GitHub is to track issues. This is intended to help screen reader users get started with the web interface.
+Updated: March 13, 2026One of the first uses of GitHub is to track issues. This is intended to help screen reader users get started with the web interface.
 
 ## Hello World repository for issue testing
 
@@ -24,5 +23,5 @@ Go to the comment button to save your first issue.
 People who have already commented will get an email that a new comment was made.
 )))
 
-I created a Hello World repo as a playground for all kinds of things related to learning GitHub. The issue area is a good place for people to start.
-[https://github.com/GeorgeKerscher/Hello-World/issues](https://github.com/GeorgeKerscher/Hello-World/issues )
+I created a Hello World repo as a playground for all kinds of things related to learning GitHub. The issue area is a good place for pe  ople to start.
+[https://github.com/GeorgeKerscher/Hello-World/issues](htt  ps://github.com/GeorgeKerscher/Hello-World/issues )

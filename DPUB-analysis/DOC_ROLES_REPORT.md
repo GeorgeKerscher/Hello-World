@@ -2,7 +2,10 @@
 
 Analysis of `role="doc-"` attributes in XHTML files across the DPUB-analysis folders.
 
-## Bosses
+## The Bosses of the Bronx
+HarperCollinsPublishers
+Copyright 2026
+ISBN:9780063414778
 
 **Total count: 420 occurrences**
 
@@ -145,7 +148,11 @@ Analysis of `role="doc-"` attributes in XHTML files across the DPUB-analysis fol
 
 ---
 
-## Emergency
+## Emergency Medical Responder Student Workbook, Eighth Edition
+Jones & Bartlett Learning
+Copyright 2027
+ISBN: 9781284319705
+
 
 **Total count: 363 occurrences**
 
@@ -358,7 +365,10 @@ Analysis of `role="doc-"` attributes in XHTML files across the DPUB-analysis fol
 
 ---
 
-## Essentials
+## Essentials of Organizational Behavior. Fourth Edition
+Sage Publishing
+Copyright 2027
+ISBN: 9781071900024
 
 **Total count: 6301 occurrences**
 
@@ -616,7 +626,10 @@ Analysis of `role="doc-"` attributes in XHTML files across the DPUB-analysis fol
 
 ---
 
-## Minimalism
+## Minimalism For Dummies 3rd Edition
+John Wiley & Sons
+Copyright 2026
+ISBN:  9781394391325
 
 **Total count: 357 occurrences**
 

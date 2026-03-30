@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="isbn-id" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title id="t1">Minimalism For Dummies&#174;</dc:title>
+<meta refines="#t1" property="title-type">main</meta>
+<dc:title id="t2">3rd Edition</dc:title>
+<meta refines="#t2" property="title-type">edition</meta>
+<dc:creator id="creator1">Shamash Alidina</dc:creator>
+<meta refines="#creator1" property="role" scheme="marc:relators" id="role1">aut</meta>
+<meta refines="#creator1" property="file-as">Alidina, Shamash</meta>
+<dc:creator id="creator2">David N. Greenfield</dc:creator>
+<meta refines="#creator2" property="role" scheme="marc:relators" id="role2">aut</meta>
+<meta refines="#creator2" property="file-as">Greenfield, David N.</meta>
+<dc:creator id="creator3">David Daniel Kennedy</dc:creator>
+<meta refines="#creator3" property="role" scheme="marc:relators" id="role3">aut</meta>
+<meta refines="#creator3" property="file-as">Kennedy, David Daniel</meta>
+<dc:creator id="creator4">Jackie Cummings Koski</dc:creator>
+<meta refines="#creator4" property="role" scheme="marc:relators" id="role4">aut</meta>
+<meta refines="#creator4" property="file-as">Koski, Jackie Cummings</meta>
+<dc:creator id="creator5">Clete A. Kushida</dc:creator>
+<meta refines="#creator5" property="role" scheme="marc:relators" id="role5">aut</meta>
+<meta refines="#creator5" property="file-as">Kushida, Clete A.</meta>
+<dc:creator id="creator6">Athena Valentine Lent</dc:creator>
+<meta refines="#creator6" property="role" scheme="marc:relators" id="role6">aut</meta>
+<meta refines="#creator6" property="file-as">Lent, Athena Valentine</meta>
+<dc:creator id="creator7">Sarah McKay</dc:creator>
+<meta refines="#creator7" property="role" scheme="marc:relators" id="role7">aut</meta>
+<meta refines="#creator7" property="file-as">McKay, Sarah</meta>
+<dc:creator id="creator8">Paula N. Mugabi</dc:creator>
+<meta refines="#creator8" property="role" scheme="marc:relators" id="role8">aut</meta>
+<meta refines="#creator8" property="file-as">Mugabi, Paula N.</meta>
+<dc:creator id="creator9">Simon Poole</dc:creator>
+<meta refines="#creator9" property="role" scheme="marc:relators" id="role9">aut</meta>
+<meta refines="#creator9" property="file-as">Poole, Simon</meta>
+<dc:creator id="creator10">Amy Riolo</dc:creator>
+<meta refines="#creator10" property="role" scheme="marc:relators" id="role10">aut</meta>
+<meta refines="#creator10" property="file-as">Riolo, Amy</meta>
+<dc:creator id="creator11">Ralph R. Roberts</dc:creator>
+<meta refines="#creator11" property="role" scheme="marc:relators" id="role11">aut</meta>
+<meta refines="#creator11" property="file-as">Roberts, Ralph R.</meta>
+<dc:creator id="creator12">Kathleen Roberts</dc:creator>
+<meta refines="#creator12" property="role" scheme="marc:relators" id="role12">aut</meta>
+<meta refines="#creator12" property="file-as">Roberts, Kathleen</meta>
+<dc:creator id="creator13">Joe Kraynak</dc:creator>
+<meta refines="#creator13" property="role" scheme="marc:relators" id="role13">aut</meta>
+<meta refines="#creator13" property="file-as">Kraynak, Joe</meta>
+<dc:creator id="creator14">Kyle Roberts</dc:creator>
+<meta refines="#creator14" property="role" scheme="marc:relators" id="role14">aut</meta>
+<meta refines="#creator14" property="file-as">Roberts, Kyle</meta>
+<dc:creator id="creator15">Eileen Roth</dc:creator>
+<meta refines="#creator15" property="role" scheme="marc:relators" id="role15">aut</meta>
+<meta refines="#creator15" property="file-as">Roth, Eileen</meta>
+<dc:creator id="creator16">Elizabeth Miles</dc:creator>
+<meta refines="#creator16" property="role" scheme="marc:relators" id="role16">aut</meta>
+<meta refines="#creator16" property="file-as">Miles, Elizabeth</meta>
+<dc:creator id="creator17">Alan L. Rubin</dc:creator>
+<meta refines="#creator17" property="role" scheme="marc:relators" id="role17">aut</meta>
+<meta refines="#creator17" property="file-as">Rubin, Alan L.</meta>
+<dc:creator id="creator18">Rosanne Rust</dc:creator>
+<meta refines="#creator18" property="role" scheme="marc:relators" id="role18">aut</meta>
+<meta refines="#creator18" property="file-as">Rust, Rosanne</meta>
+<dc:creator id="creator19">Jane Stoller</dc:creator>
+<meta refines="#creator19" property="role" scheme="marc:relators" id="role19">aut</meta>
+<meta refines="#creator19" property="file-as">Stoller, Jane</meta>
+<dc:creator id="creator20">Eric Tyson</dc:creator>
+<meta refines="#creator20" property="role" scheme="marc:relators" id="role20">aut</meta>
+<meta refines="#creator20" property="file-as">Tyson, Eric</meta>
+<dc:language>en-US</dc:language>
+<meta property="dcterms:publisher">John Wiley &#38; Sons</meta>
+<dc:identifier id="isbn-id">urn:isbn:9781394391332</dc:identifier>
+<meta refines="#isbn-id" property="identifier-type" scheme="onix:codelist5">15</meta>
+<meta property="pageBreakSource">urn:isbn:9781394391325</meta>
+<meta name="cover" content="cover-image"/>
+<meta property="dcterms:modified">2026-03-16T16:24:19Z</meta>
+<dc:date>2026-03-27T00:00:00Z</dc:date>
+<meta property="schema:accessibilitySummary">This publication contains well-structured HTML with page mapping and alt text. There are no extended descriptions of images. There is no MathML, and math is captured as images.</meta>
+<meta property="schema:accessibilityFeature">ARIA</meta>
+<meta property="schema:accessMode">textual</meta>
+<meta property="schema:accessMode">visual</meta>
+<meta property="schema:accessModeSufficient">textual</meta>
+<meta property="schema:accessModeSufficient">textual,visual</meta>
+<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+<meta property="schema:accessibilityFeature">alternativeText</meta>
+<meta property="schema:accessibilityFeature">pageBreakMarkers</meta>
+<meta property="schema:accessibilityFeature">pageNavigation</meta>
+<meta property="schema:accessibilityFeature">displayTransformability</meta>
+<meta property="schema:accessibilityFeature">readingOrder</meta>
+<meta property="schema:accessibilityFeature">index</meta>
+<meta property="schema:accessibilityFeature">tableOfContents</meta>
+<meta property="schema:accessibilityHazard">none</meta>
+</metadata>
+<manifest>
+<item id="A9781394391325-fg0301" href="images/9781394391325-fg0301.png" media-type="image/png"/>
+<item id="A9781394391325-fg0501" href="images/9781394391325-fg0501.png" media-type="image/png"/>
+<item id="A9781394391325-fg0502" href="images/9781394391325-fg0502.png" media-type="image/png"/>
+<item id="A9781394391325-fg0503" href="images/9781394391325-fg0503.png" media-type="image/png"/>
+<item id="A9781394391325-fg0504" href="images/9781394391325-fg0504.png" media-type="image/png"/>
+<item id="A9781394391325-fg0505" href="images/9781394391325-fg0505.png" media-type="image/png"/>
+<item id="A9781394391325-fg0506" href="images/9781394391325-fg0506.png" media-type="image/png"/>
+<item id="A9781394391325-fg0601" href="images/9781394391325-fg0601.png" media-type="image/png"/>
+<item id="A9781394391325-fg0602" href="images/9781394391325-fg0602.png" media-type="image/png"/>
+<item id="A9781394391325-fg0603" href="images/9781394391325-fg0603.png" media-type="image/png"/>
+<item id="A9781394391325-fg0604" href="images/9781394391325-fg0604.png" media-type="image/png"/>
+<item id="A9781394391325-fg0605" href="images/9781394391325-fg0605.png" media-type="image/png"/>
+<item id="A9781394391325-fg0606" href="images/9781394391325-fg0606.png" media-type="image/png"/>
+<item id="A9781394391325-fg0701" href="images/9781394391325-fg0701.png" media-type="image/png"/>
+<item id="A9781394391325-fg0702a" href="images/9781394391325-fg0702a.png" media-type="image/png"/>
+<item id="A9781394391325-fg0702b" href="images/9781394391325-fg0702b.png" media-type="image/png"/>
+<item id="A9781394391325-fg0703" href="images/9781394391325-fg0703.png" media-type="image/png"/>
+<item id="A9781394391325-fg0704" href="images/9781394391325-fg0704.png" media-type="image/png"/>
+<item id="A9781394391325-fg0705" href="images/9781394391325-fg0705.png" media-type="image/png"/>
+<item id="A9781394391325-fg0801" href="images/9781394391325-fg0801.png" media-type="image/png"/>
+<item id="A9781394391325-fg0901" href="images/9781394391325-fg0901.png" media-type="image/png"/>
+<item id="A9781394391325-fg1101" href="images/9781394391325-fg1101.png" media-type="image/png"/>
+<item id="A9781394391325-fg1102" href="images/9781394391325-fg1102.png" media-type="image/png"/>
+<item id="A9781394391325-fg1103" href="images/9781394391325-fg1103.png" media-type="image/png"/>
+<item id="A9781394391325-fg1104" href="images/9781394391325-fg1104.png" media-type="image/png"/>
+<item id="A9781394391325-fg1105" href="images/9781394391325-fg1105.png" media-type="image/png"/>
+<item id="A9781394391325-fg1106" href="images/9781394391325-fg1106.png" media-type="image/png"/>
+<item id="A9781394391325-fg1107" href="images/9781394391325-fg1107.png" media-type="image/png"/>
+<item id="A9781394391325-fg1201" href="images/9781394391325-fg1201.png" media-type="image/png"/>
+<item id="A9781394391325-fg1202" href="images/9781394391325-fg1202.png" media-type="image/png"/>
+<item id="A9781394391325-fg1203" href="images/9781394391325-fg1203.png" media-type="image/png"/>
+<item id="A9781394391325-fg1204" href="images/9781394391325-fg1204.png" media-type="image/png"/>
+<item id="A9781394391325-fg1501" href="images/9781394391325-fg1501.png" media-type="image/png"/>
+<item id="A9781394391325-fg1502" href="images/9781394391325-fg1502.png" media-type="image/png"/>
+<item id="A9781394391325-sb0701" href="images/9781394391325-sb0701.png" media-type="image/png"/>
+<item id="Acheck" href="images/check.png" media-type="image/png"/>
+<item id="cover-image" href="images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+<item id="Adummies-logo" href="images/dummies-logo.png" media-type="image/png"/>
+<item id="Adummies-wordmark" href="images/dummies-wordmark.png" media-type="image/png"/>
+<item id="Aenvelope-icon" href="images/envelope-icon.png" media-type="image/png"/>
+<item id="Afacebook-logo" href="images/facebook-logo.png" media-type="image/png"/>
+<item id="Alinkedin-logo" href="images/linkedin-logo.png" media-type="image/png"/>
+<item id="Aopen-book-icon" href="images/open-book-icon.png" media-type="image/png"/>
+<item id="Apinterest-logo" href="images/pinterest-logo.png" media-type="image/png"/>
+<item id="Aremember" href="images/remember.png" media-type="image/png"/>
+<item id="Atechnicalstuff" href="images/technicalstuff.png" media-type="image/png"/>
+<item id="Atip" href="images/tip.png" media-type="image/png"/>
+<item id="Atitlepg" href="images/titlepg.png" media-type="image/png"/>
+<item id="Atwitter-logo" href="images/twitter-logo.png" media-type="image/png"/>
+<item id="Awarning" href="images/warning.png" media-type="image/png"/>
+<item id="Ayoutube-logo" href="images/youtube-logo.png" media-type="image/png"/>
+<item id="Atemplate.css" href="template.css" media-type="text/css"/>
+<item id="Adumbob.css" href="dumbob.css" media-type="text/css"/>
+<item id="Aindex.css" href="index.css" media-type="text/css"/>
+<item id="Acover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="Anavigation" href="navigation.xhtml" properties="nav" media-type="application/xhtml+xml"/>
+<item id="Af01" href="f01.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac00" href="c00.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ap01" href="p01.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac01" href="c01.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac02" href="c02.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac03" href="c03.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ap02" href="p02.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac04" href="c04.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac05" href="c05.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac06" href="c06.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac07" href="c07.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac08" href="c08.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac09" href="c09.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ap03" href="p03.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac10" href="c10.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac11" href="c11.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac12" href="c12.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac13" href="c13.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ap04" href="p04.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac14" href="c14.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac15" href="c15.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac16" href="c16.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ap05" href="p05.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac17" href="c17.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac18" href="c18.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ap06" href="p06.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac19" href="c19.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac20" href="c20.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac21" href="c21.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ac22" href="c22.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ab01" href="b01.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ab02" href="b02.xhtml" media-type="application/xhtml+xml"/>
+<item id="social" href="dum-social-media-ad.xhtml" media-type="application/xhtml+xml"/>
+<item id="Aeula" href="eula.xhtml" media-type="application/xhtml+xml"/>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="Acover"/>
+<itemref idref="Anavigation"/>
+<itemref idref="Af01"/>
+<itemref idref="Ac00"/>
+<itemref idref="Ap01"/>
+<itemref idref="Ac01"/>
+<itemref idref="Ac02"/>
+<itemref idref="Ac03"/>
+<itemref idref="Ap02"/>
+<itemref idref="Ac04"/>
+<itemref idref="Ac05"/>
+<itemref idref="Ac06"/>
+<itemref idref="Ac07"/>
+<itemref idref="Ac08"/>
+<itemref idref="Ac09"/>
+<itemref idref="Ap03"/>
+<itemref idref="Ac10"/>
+<itemref idref="Ac11"/>
+<itemref idref="Ac12"/>
+<itemref idref="Ac13"/>
+<itemref idref="Ap04"/>
+<itemref idref="Ac14"/>
+<itemref idref="Ac15"/>
+<itemref idref="Ac16"/>
+<itemref idref="Ap05"/>
+<itemref idref="Ac17"/>
+<itemref idref="Ac18"/>
+<itemref idref="Ap06"/>
+<itemref idref="Ac19"/>
+<itemref idref="Ac20"/>
+<itemref idref="Ac21"/>
+<itemref idref="Ac22"/>
+<itemref idref="Ab01"/>
+<itemref idref="Ab02"/>
+<itemref idref="social"/>
+<itemref idref="Aeula"/>
+</spine>
+<guide>
+<reference type="cover" title="Cover" href="cover.xhtml"/>
+<reference type="toc" title="Table of Contents" href="navigation.xhtml"/>
+</guide>
+</package>

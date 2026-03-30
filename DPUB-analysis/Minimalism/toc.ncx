@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<head>
+<meta name="dtb:uid" content="urn:isbn:9781394391332"/>
+<meta name="dtb:depth" content="2"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Minimalism For Dummies&#174;</text></docTitle>
+<docAuthor><text>Shamash Alidina</text></docAuthor>
+<docAuthor><text>David N. Greenfield</text></docAuthor>
+<docAuthor><text>David Daniel Kennedy</text></docAuthor>
+<docAuthor><text>Jackie Cummings Koski</text></docAuthor>
+<docAuthor><text>Clete A. Kushida</text></docAuthor>
+<docAuthor><text>Athena Valentine Lent</text></docAuthor>
+<docAuthor><text>Sarah McKay</text></docAuthor>
+<docAuthor><text>Paula N. Mugabi</text></docAuthor>
+<docAuthor><text>Simon Poole</text></docAuthor>
+<docAuthor><text>Amy Riolo</text></docAuthor>
+<docAuthor><text>Ralph R. Roberts</text></docAuthor>
+<docAuthor><text>Kathleen Roberts</text></docAuthor>
+<docAuthor><text>Joe Kraynak</text></docAuthor>
+<docAuthor><text>Kyle Roberts</text></docAuthor>
+<docAuthor><text>Eileen Roth</text></docAuthor>
+<docAuthor><text>Elizabeth Miles</text></docAuthor>
+<docAuthor><text>Alan L. Rubin</text></docAuthor>
+<docAuthor><text>Rosanne Rust</text></docAuthor>
+<docAuthor><text>Jane Stoller</text></docAuthor>
+<docAuthor><text>Eric Tyson</text></docAuthor>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cover.xhtml"/></navPoint>
+<navPoint id="navpoint-2" playOrder="2"><navLabel><text>Table of Contents</text></navLabel><content src="navigation.xhtml"/></navPoint>
+<navPoint id="navpoint-3" playOrder="3"><navLabel><text>Title Page</text></navLabel><content src="f01.xhtml#titlepage1"/></navPoint>
+<navPoint id="navpoint-4" playOrder="4"><navLabel><text>Copyright</text></navLabel><content src="f01.xhtml#f01-sec-0001"/></navPoint>
+<navPoint id="navpoint-5" playOrder="5"><navLabel><text>Introduction</text></navLabel><content src="c00.xhtml"/>
+<navPoint id="navpoint-6" playOrder="6"><navLabel><text>About This Book</text></navLabel><content src="c00.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-7" playOrder="7"><navLabel><text>Foolish Assumptions</text></navLabel><content src="c00.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-8" playOrder="8"><navLabel><text>Icons Used in This Book</text></navLabel><content src="c00.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-9" playOrder="9"><navLabel><text>Beyond the Book</text></navLabel><content src="c00.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-10" playOrder="10"><navLabel><text>Where to Go from Here</text></navLabel><content src="c00.xhtml#h2-5"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-11" playOrder="11"><navLabel><text>Part 1: Getting into a Minimalist Mindset</text></navLabel><content src="p01.xhtml"/>
+<navPoint id="navpoint-12" playOrder="12"><navLabel><text>Chapter 1: Meeting Minimalism</text></navLabel><content src="c01.xhtml"/>
+<navPoint id="navpoint-13" playOrder="13"><navLabel><text>Getting the Lowdown on Minimalism</text></navLabel><content src="c01.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-14" playOrder="14"><navLabel><text>Decluttering Your Physical Spaces</text></navLabel><content src="c01.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-15" playOrder="15"><navLabel><text>Being Minimalist with Your Money</text></navLabel><content src="c01.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-16" playOrder="16"><navLabel><text>Escaping from Digital Doom</text></navLabel><content src="c01.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-17" playOrder="17"><navLabel><text>Extending Minimalism to the Rest of Your Life</text></navLabel><content src="c01.xhtml#h2-5"/></navPoint>
+<navPoint id="navpoint-18" playOrder="18"><navLabel><text>Building Momentum If Getting Going Feels Hard</text></navLabel><content src="c01.xhtml#h2-6"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-19" playOrder="19"><navLabel><text>Chapter 2: Realizing How Less Really Is More</text></navLabel><content src="c02.xhtml"/>
+<navPoint id="navpoint-20" playOrder="20"><navLabel><text>Contemplating the Consequences of Too Much Stuff</text></navLabel><content src="c02.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-21" playOrder="21"><navLabel><text>Understanding How Minimalism Can Help You Stress Less</text></navLabel><content src="c02.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-22" playOrder="22"><navLabel><text>Discovering the Secret to Change</text></navLabel><content src="c02.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-23" playOrder="23"><navLabel><text>Generating Minimalism Motivation with Some Quick Wins</text></navLabel><content src="c02.xhtml#h2-4"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-24" playOrder="24"><navLabel><text>Chapter 3: Defining &#8220;Enough&#8221; and Setting Goals to Get There</text></navLabel><content src="c03.xhtml"/>
+<navPoint id="navpoint-25" playOrder="25"><navLabel><text>Finding Your Balance between Less and Living</text></navLabel><content src="c03.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-26" playOrder="26"><navLabel><text>Setting Your Goals and Seeing How Minimalism Supports Them</text></navLabel><content src="c03.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-27" playOrder="27"><navLabel><text>Getting Clear on What You Need</text></navLabel><content src="c03.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-28" playOrder="28"><navLabel><text>Letting Go of Stuff</text></navLabel><content src="c03.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-29" playOrder="29"><navLabel><text>Fending Off Clutter of All Types</text></navLabel><content src="c03.xhtml#h2-5"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-30" playOrder="30"><navLabel><text>Part 2: Living Lighter, One Room at a Time</text></navLabel><content src="p02.xhtml"/>
+<navPoint id="navpoint-31" playOrder="31"><navLabel><text>Chapter 4: Creating Functional Minimalist Spaces</text></navLabel><content src="c04.xhtml"/>
+<navPoint id="navpoint-32" playOrder="32"><navLabel><text>Understanding What Makes a Space Functional</text></navLabel><content src="c04.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-33" playOrder="33"><navLabel><text>Getting Organized before You Purge</text></navLabel><content src="c04.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-34" playOrder="34"><navLabel><text>Mastering Decluttering Basics</text></navLabel><content src="c04.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-35" playOrder="35"><navLabel><text>Organizing What Remains</text></navLabel><content src="c04.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-36" playOrder="36"><navLabel><text>Making Decluttering Fun</text></navLabel><content src="c04.xhtml#h2-5"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-37" playOrder="37"><navLabel><text>Chapter 5: Restoring Simplicity to Getting Dressed</text></navLabel><content src="c05.xhtml"/>
+<navPoint id="navpoint-38" playOrder="38"><navLabel><text>Understanding How an Overstuffed Closet Wastes Your Time</text></navLabel><content src="c05.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-39" playOrder="39"><navLabel><text>Creating Your Definition of a Minimalist Wardrobe</text></navLabel><content src="c05.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-40" playOrder="40"><navLabel><text>Auditing Your Closet and Sorting the Keepers from the Clingers</text></navLabel><content src="c05.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-41" playOrder="41"><navLabel><text>Organizing Closets of Different Sizes</text></navLabel><content src="c05.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-42" playOrder="42"><navLabel><text>Storing Smart So You Can Grab and Go</text></navLabel><content src="c05.xhtml#h2-5"/></navPoint>
+<navPoint id="navpoint-43" playOrder="43"><navLabel><text>Getting Minimalist with Accessories</text></navLabel><content src="c05.xhtml#h2-6"/></navPoint>
+<navPoint id="navpoint-44" playOrder="44"><navLabel><text>Getting Rid of Your Discards and Keeping Your Closet Minimalist</text></navLabel><content src="c05.xhtml#h2-7"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-45" playOrder="45"><navLabel><text>Chapter 6: Creating Calm Where You Rest and Refresh</text></navLabel><content src="c06.xhtml"/>
+<navPoint id="navpoint-46" playOrder="46"><navLabel><text>Restoring Order to Your Sleep Space</text></navLabel><content src="c06.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-47" playOrder="47"><navLabel><text>Furnishing for the Win</text></navLabel><content src="c06.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-48" playOrder="48"><navLabel><text>Taking a Minimalist Approach to Your Bathroom</text></navLabel><content src="c06.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-49" playOrder="49"><navLabel><text>Getting Minimal with Your Medicine Cabinet</text></navLabel><content src="c06.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-50" playOrder="50"><navLabel><text>Setting Strict Timelines for Product Lifetimes</text></navLabel><content src="c06.xhtml#h2-5"/></navPoint>
+<navPoint id="navpoint-51" playOrder="51"><navLabel><text>Keeping Dry the Minimalist Way</text></navLabel><content src="c06.xhtml#h2-6"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-52" playOrder="52"><navLabel><text>Chapter 7: Clearing the Kitchen</text></navLabel><content src="c07.xhtml"/>
+<navPoint id="navpoint-53" playOrder="53"><navLabel><text>Taking the Scary Out of Starting</text></navLabel><content src="c07.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-54" playOrder="54"><navLabel><text>Discovering the Basics of Kitchen Decluttering</text></navLabel><content src="c07.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-55" playOrder="55"><navLabel><text>Figuring Out How Many Dishes, Cutlery, and Other Items You Need</text></navLabel><content src="c07.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-56" playOrder="56"><navLabel><text>Optimizing Your Kitchen for Efficiency</text></navLabel><content src="c07.xhtml#h2-4"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-57" playOrder="57"><navLabel><text>Chapter 8: Simplifying Where You Work and Unwind</text></navLabel><content src="c08.xhtml"/>
+<navPoint id="navpoint-58" playOrder="58"><navLabel><text>Decluttering Your Rooms</text></navLabel><content src="c08.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-59" playOrder="59"><navLabel><text>Creating Calm Where You Kick Back</text></navLabel><content src="c08.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-60" playOrder="60"><navLabel><text>Designing a Layout for Living</text></navLabel><content src="c08.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-61" playOrder="61"><navLabel><text>Sorting Your Books</text></navLabel><content src="c08.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-62" playOrder="62"><navLabel><text>Minimalizing Your Workspace So It Works for You</text></navLabel><content src="c08.xhtml#h2-5"/></navPoint>
+<navPoint id="navpoint-63" playOrder="63"><navLabel><text>Designating Your Drawers as Work Centers</text></navLabel><content src="c08.xhtml#h2-6"/></navPoint>
+<navPoint id="navpoint-64" playOrder="64"><navLabel><text>Tackling Storage Spaces</text></navLabel><content src="c08.xhtml#h2-7"/></navPoint>
+<navPoint id="navpoint-65" playOrder="65"><navLabel><text>Determining a Strategy for Sentimental Items</text></navLabel><content src="c08.xhtml#h2-8"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-66" playOrder="66"><navLabel><text>Chapter 9: Practicing Mindful Consumption and Quality Care</text></navLabel><content src="c09.xhtml"/>
+<navPoint id="navpoint-67" playOrder="67"><navLabel><text>Staying Minimalist When Shopping</text></navLabel><content src="c09.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-68" playOrder="68"><navLabel><text>Avoiding Impulse Buys</text></navLabel><content src="c09.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-69" playOrder="69"><navLabel><text>Making Some Lists, Checking Them Twice</text></navLabel><content src="c09.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-70" playOrder="70"><navLabel><text>Becoming a Slow Shopper</text></navLabel><content src="c09.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-71" playOrder="71"><navLabel><text>Scheduling Your Shopping Trips</text></navLabel><content src="c09.xhtml#h2-5"/></navPoint>
+<navPoint id="navpoint-72" playOrder="72"><navLabel><text>Detoxing Your Social Media and Inbox</text></navLabel><content src="c09.xhtml#h2-6"/></navPoint>
+<navPoint id="navpoint-73" playOrder="73"><navLabel><text>Caring for Your Clothes to Help Them Last</text></navLabel><content src="c09.xhtml#h2-7"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-74" playOrder="74"><navLabel><text>Part 3: Aligning Your Money with What Matters</text></navLabel><content src="p03.xhtml"/>
+<navPoint id="navpoint-75" playOrder="75"><navLabel><text>Chapter 10: Aligning Your Purchases with Your Priorities</text></navLabel><content src="c10.xhtml"/>
+<navPoint id="navpoint-76" playOrder="76"><navLabel><text>Seeing Minimalism as a Smarter Way to Spend</text></navLabel><content src="c10.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-77" playOrder="77"><navLabel><text>Understanding Why You Spend What You Do</text></navLabel><content src="c10.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-78" playOrder="78"><navLabel><text>Figuring Out Your Values and Goals</text></navLabel><content src="c10.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-79" playOrder="79"><navLabel><text>Going Minimal with F.I.R.E.</text></navLabel><content src="c10.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-80" playOrder="80"><navLabel><text>Using Net Worth to See Where You Stand</text></navLabel><content src="c10.xhtml#h2-5"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-81" playOrder="81"><navLabel><text>Chapter 11: Bringing Intention to Your Spending</text></navLabel><content src="c11.xhtml"/>
+<navPoint id="navpoint-82" playOrder="82"><navLabel><text>Knowing What a Budget Is and Why You Should Use One</text></navLabel><content src="c11.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-83" playOrder="83"><navLabel><text>Budgeting Basics: Breaking Down a Budget&#8217;s Parts</text></navLabel><content src="c11.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-84" playOrder="84"><navLabel><text>Starting with a Spending Check</text></navLabel><content src="c11.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-85" playOrder="85"><navLabel><text>Moving from Awareness to Action with Zero-Based Budgeting</text></navLabel><content src="c11.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-86" playOrder="86"><navLabel><text>Ramping Up to Zero-Based Budgeting with the Envelope System</text></navLabel><content src="c11.xhtml#h2-5"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-87" playOrder="87"><navLabel><text>Chapter 12: Ditching Debt to Lighten Your Minimalist Load</text></navLabel><content src="c12.xhtml"/>
+<navPoint id="navpoint-88" playOrder="88"><navLabel><text>Looking at the Different Types of Debt</text></navLabel><content src="c12.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-89" playOrder="89"><navLabel><text>Paying Off Your Debt</text></navLabel><content src="c12.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-90" playOrder="90"><navLabel><text>Avoiding Accumulating More Debt</text></navLabel><content src="c12.xhtml#h2-3"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-91" playOrder="91"><navLabel><text>Chapter 13: Building Wealth without Building Stress</text></navLabel><content src="c13.xhtml"/>
+<navPoint id="navpoint-92" playOrder="92"><navLabel><text>Establishing Your Investment Goals</text></navLabel><content src="c13.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-93" playOrder="93"><navLabel><text>Understanding the Primary Investment Types</text></navLabel><content src="c13.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-94" playOrder="94"><navLabel><text>Understanding Investment Returns</text></navLabel><content src="c13.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-95" playOrder="95"><navLabel><text>Sizing Investment Risks</text></navLabel><content src="c13.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-96" playOrder="96"><navLabel><text>Using Technology to Make Money Management Easier</text></navLabel><content src="c13.xhtml#h2-5"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-97" playOrder="97"><navLabel><text>Part 4: Dialing Down the Digital Overload</text></navLabel><content src="p04.xhtml"/>
+<navPoint id="navpoint-98" playOrder="98"><navLabel><text>Chapter 14: Understanding Digital Overload</text></navLabel><content src="c14.xhtml"/>
+<navPoint id="navpoint-99" playOrder="99"><navLabel><text>Figuring Out What&#8217;s Interrupting Our Zen</text></navLabel><content src="c14.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-100" playOrder="100"><navLabel><text>Living Mindfully in the Digital Age</text></navLabel><content src="c14.xhtml#h2-2"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-101" playOrder="101"><navLabel><text>Chapter 15: Bringing Order to Digital Chaos</text></navLabel><content src="c15.xhtml"/>
+<navPoint id="navpoint-102" playOrder="102"><navLabel><text>Jump-Starting Your Minimalist Journey</text></navLabel><content src="c15.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-103" playOrder="103"><navLabel><text>Organizing Your Digital Files</text></navLabel><content src="c15.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-104" playOrder="104"><navLabel><text>Restoring Order to an Overwhelmed Inbox</text></navLabel><content src="c15.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-105" playOrder="105"><navLabel><text>Addressing Apps Across All Devices</text></navLabel><content src="c15.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-106" playOrder="106"><navLabel><text>Managing Your Digital Photos and Videos</text></navLabel><content src="c15.xhtml#h2-5"/></navPoint>
+<navPoint id="navpoint-107" playOrder="107"><navLabel><text>Dealing with Other Digital Devices</text></navLabel><content src="c15.xhtml#h2-6"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-108" playOrder="108"><navLabel><text>Chapter 16: Getting Minimalist When Sharing, Watching, and Playing</text></navLabel><content src="c16.xhtml"/>
+<navPoint id="navpoint-109" playOrder="109"><navLabel><text>Getting to Know Social Media</text></navLabel><content src="c16.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-110" playOrder="110"><navLabel><text>Binge Watching TV and Online Entertainment</text></navLabel><content src="c16.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-111" playOrder="111"><navLabel><text>Exploring Video Games</text></navLabel><content src="c16.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-112" playOrder="112"><navLabel><text>Mixing Minimalism into Your Digital Fun</text></navLabel><content src="c16.xhtml#h2-4"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-113" playOrder="113"><navLabel><text>Part 5: Following a Minimalist Lifestyle</text></navLabel><content src="p05.xhtml"/>
+<navPoint id="navpoint-114" playOrder="114"><navLabel><text>Chapter 17: Simplifying Your Meals, Moves, and Moments</text></navLabel><content src="c17.xhtml"/>
+<navPoint id="navpoint-115" playOrder="115"><navLabel><text>Eating with Intention</text></navLabel><content src="c17.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-116" playOrder="116"><navLabel><text>Meal Planning Made Easy</text></navLabel><content src="c17.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-117" playOrder="117"><navLabel><text>Following Formulas for Minimalist Meals and Snacks</text></navLabel><content src="c17.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-118" playOrder="118"><navLabel><text>Becoming a Minimalist in Motion</text></navLabel><content src="c17.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-119" playOrder="119"><navLabel><text>Living Like a Minimalist but Sleeping Like a Maximalist</text></navLabel><content src="c17.xhtml#h2-5"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-120" playOrder="120"><navLabel><text>Chapter 18: Planning for Major Life Transitions</text></navLabel><content src="c18.xhtml"/>
+<navPoint id="navpoint-121" playOrder="121"><navLabel><text>Making a Big Purchase: Buying a Home</text></navLabel><content src="c18.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-122" playOrder="122"><navLabel><text>Funding a Family: Budgeting for Kids</text></navLabel><content src="c18.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-123" playOrder="123"><navLabel><text>Suffering a Financial Setback: Getting Laid Off</text></navLabel><content src="c18.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-124" playOrder="124"><navLabel><text>Downsizing: Making Your Move Mindfully</text></navLabel><content src="c18.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-125" playOrder="125"><navLabel><text>Finally Retiring: Living Off What You&#8217;ve Saved</text></navLabel><content src="c18.xhtml#h2-5"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-126" playOrder="126"><navLabel><text>Part 6: The Part of Tens</text></navLabel><content src="p06.xhtml"/>
+<navPoint id="navpoint-127" playOrder="127"><navLabel><text>Chapter 19: Ten Benefits of Minimalism</text></navLabel><content src="c19.xhtml"/>
+<navPoint id="navpoint-128" playOrder="128"><navLabel><text>Spending Time and Money on What Really Matters</text></navLabel><content src="c19.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-129" playOrder="129"><navLabel><text>Saving Time and Effort Cleaning and Maintaining What You Own</text></navLabel><content src="c19.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-130" playOrder="130"><navLabel><text>Reducing Stress</text></navLabel><content src="c19.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-131" playOrder="131"><navLabel><text>Reclaiming Focus from Digital Distractions</text></navLabel><content src="c19.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-132" playOrder="132"><navLabel><text>Spending More Time with Loved Ones</text></navLabel><content src="c19.xhtml#h2-5"/></navPoint>
+<navPoint id="navpoint-133" playOrder="133"><navLabel><text>Gaining More Financial Breathing Room</text></navLabel><content src="c19.xhtml#h2-6"/></navPoint>
+<navPoint id="navpoint-134" playOrder="134"><navLabel><text>Focusing on Quality over Quantity</text></navLabel><content src="c19.xhtml#h2-7"/></navPoint>
+<navPoint id="navpoint-135" playOrder="135"><navLabel><text>Optimizing Your Health and Fitness</text></navLabel><content src="c19.xhtml#h2-8"/></navPoint>
+<navPoint id="navpoint-136" playOrder="136"><navLabel><text>Becoming More Flexible in How You Live</text></navLabel><content src="c19.xhtml#h2-9"/></navPoint>
+<navPoint id="navpoint-137" playOrder="137"><navLabel><text>Alleviating the Future Burden on Loved Ones</text></navLabel><content src="c19.xhtml#h2-10"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-138" playOrder="138"><navLabel><text>Chapter 20: Ten Tips to Make Minimizing Easier</text></navLabel><content src="c20.xhtml"/>
+<navPoint id="navpoint-139" playOrder="139"><navLabel><text>Start with the Easy Wins</text></navLabel><content src="c20.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-140" playOrder="140"><navLabel><text>Focus on What to Keep, Not What to Get Rid Of</text></navLabel><content src="c20.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-141" playOrder="141"><navLabel><text>Follow the One-Year Rule</text></navLabel><content src="c20.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-142" playOrder="142"><navLabel><text>Tackle One Room at a Time</text></navLabel><content src="c20.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-143" playOrder="143"><navLabel><text>Set a Manageable Deadline and Milestones</text></navLabel><content src="c20.xhtml#h2-5"/></navPoint>
+<navPoint id="navpoint-144" playOrder="144"><navLabel><text>Follow the OHIO Rule</text></navLabel><content src="c20.xhtml#h2-6"/></navPoint>
+<navPoint id="navpoint-145" playOrder="145"><navLabel><text>Host a Sorting/Packing Party</text></navLabel><content src="c20.xhtml#h2-7"/></navPoint>
+<navPoint id="navpoint-146" playOrder="146"><navLabel><text>Have Your Adult Children Clear Out Their Belongings</text></navLabel><content src="c20.xhtml#h2-8"/></navPoint>
+<navPoint id="navpoint-147" playOrder="147"><navLabel><text>Create a Yes and No Pile (But No Maybe Pile)</text></navLabel><content src="c20.xhtml#h2-9"/></navPoint>
+<navPoint id="navpoint-148" playOrder="148"><navLabel><text>Digitize What You Can</text></navLabel><content src="c20.xhtml#h2-10"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-149" playOrder="149"><navLabel><text>Chapter 21: Ten Ways to Reduce Your Living Expenses</text></navLabel><content src="c21.xhtml"/>
+<navPoint id="navpoint-150" playOrder="150"><navLabel><text>Slash Your Insurance Costs</text></navLabel><content src="c21.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-151" playOrder="151"><navLabel><text>Reduce TV, Internet, and Phone Costs</text></navLabel><content src="c21.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-152" playOrder="152"><navLabel><text>Cancel Subscriptions</text></navLabel><content src="c21.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-153" playOrder="153"><navLabel><text>Reduce or Eliminate Vehicle Expenses</text></navLabel><content src="c21.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-154" playOrder="154"><navLabel><text>Clear Out Your Storage Unit</text></navLabel><content src="c21.xhtml#h2-5"/></navPoint>
+<navPoint id="navpoint-155" playOrder="155"><navLabel><text>Take Better Care of Yourself</text></navLabel><content src="c21.xhtml#h2-6"/></navPoint>
+<navPoint id="navpoint-156" playOrder="156"><navLabel><text>Use Cash-Back Credit Cards</text></navLabel><content src="c21.xhtml#h2-7"/></navPoint>
+<navPoint id="navpoint-157" playOrder="157"><navLabel><text>Buy Your Groceries Online</text></navLabel><content src="c21.xhtml#h2-8"/></navPoint>
+<navPoint id="navpoint-158" playOrder="158"><navLabel><text>Set Spending Caps</text></navLabel><content src="c21.xhtml#h2-9"/></navPoint>
+<navPoint id="navpoint-159" playOrder="159"><navLabel><text>Ask about Senior Discounts</text></navLabel><content src="c21.xhtml#h2-10"/></navPoint>
+</navPoint>
+<navPoint id="navpoint-160" playOrder="160"><navLabel><text>Chapter 22: Ten Ways to Support Minimalism with Mindfulness</text></navLabel><content src="c22.xhtml"/>
+<navPoint id="navpoint-161" playOrder="161"><navLabel><text>Spend Some Quiet Time Every Day</text></navLabel><content src="c22.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-162" playOrder="162"><navLabel><text>Connect with People</text></navLabel><content src="c22.xhtml#h2-2"/></navPoint>
+<navPoint id="navpoint-163" playOrder="163"><navLabel><text>Enjoy the Beauty of Nature</text></navLabel><content src="c22.xhtml#h2-3"/></navPoint>
+<navPoint id="navpoint-164" playOrder="164"><navLabel><text>Change Your Daily Routine</text></navLabel><content src="c22.xhtml#h2-4"/></navPoint>
+<navPoint id="navpoint-165" playOrder="165"><navLabel><text>See the Wonder of the Present Moment</text></navLabel><content src="c22.xhtml#h2-5"/></navPoint>
+<navPoint id="navpoint-166" playOrder="166"><navLabel><text>Listen to Unpleasant Emotions</text></navLabel><content src="c22.xhtml#h2-6"/></navPoint>
+<navPoint id="navpoint-167" playOrder="167"><navLabel><text>Remember that Thoughts Are Just Thoughts</text></navLabel><content src="c22.xhtml#h2-7"/></navPoint>
+<navPoint id="navpoint-168" playOrder="168"><navLabel><text>Be Grateful Every Day</text></navLabel><content src="c22.xhtml#h2-8"/></navPoint>
+<navPoint id="navpoint-169" playOrder="169"><navLabel><text>Use Technology Mindfully</text></navLabel><content src="c22.xhtml#h2-9"/></navPoint>
+<navPoint id="navpoint-170" playOrder="170"><navLabel><text>Breathe and Smile!</text></navLabel><content src="c22.xhtml#h2-10"/></navPoint>
+</navPoint>
+</navPoint>
+<navPoint id="navpoint-171" playOrder="171"><navLabel><text>Index</text></navLabel><content src="b01.xhtml"/></navPoint>
+<navPoint id="navpoint-172" playOrder="172"><navLabel><text>About the Authors</text></navLabel><content src="b02.xhtml#h2-1"/></navPoint>
+<navPoint id="navpoint-173" playOrder="173"><navLabel><text>Connect with Dummies</text></navLabel><content src="dum-social-media-ad.xhtml"/></navPoint>
+<navPoint id="navpoint-174" playOrder="174"><navLabel><text>End User License Agreement</text></navLabel><content src="eula.xhtml"/></navPoint>
+</navMap>
+<pageList>
+<navInfo><text>Pages</text></navInfo>
+<pageTarget type="normal" playOrder="175"><navLabel><text>iii</text></navLabel><content src="f01.xhtml#Page_iii"/></pageTarget>
+<pageTarget type="normal" playOrder="176"><navLabel><text>iv</text></navLabel><content src="f01.xhtml#Page_iv"/></pageTarget>
+<pageTarget type="normal" playOrder="177"><navLabel><text>1</text></navLabel><content src="c00.xhtml#Page_1"/></pageTarget>
+<pageTarget type="normal" playOrder="178"><navLabel><text>2</text></navLabel><content src="c00.xhtml#Page_2"/></pageTarget>
+<pageTarget type="normal" playOrder="179"><navLabel><text>3</text></navLabel><content src="c00.xhtml#Page_3"/></pageTarget>
+<pageTarget type="normal" playOrder="180"><navLabel><text>5</text></navLabel><content src="p01.xhtml#Page_5"/></pageTarget>
+<pageTarget type="normal" playOrder="181"><navLabel><text>6</text></navLabel><content src="p01.xhtml#Page_6"/></pageTarget>
+<pageTarget type="normal" playOrder="182"><navLabel><text>7</text></navLabel><content src="c01.xhtml#Page_7"/></pageTarget>
+<pageTarget type="normal" playOrder="183"><navLabel><text>8</text></navLabel><content src="c01.xhtml#Page_8"/></pageTarget>
+<pageTarget type="normal" playOrder="184"><navLabel><text>9</text></navLabel><content src="c01.xhtml#Page_9"/></pageTarget>
+<pageTarget type="normal" playOrder="185"><navLabel><text>10</text></navLabel><content src="c01.xhtml#Page_10"/></pageTarget>
+<pageTarget type="normal" playOrder="186"><navLabel><text>11</text></navLabel><content src="c01.xhtml#Page_11"/></pageTarget>
+<pageTarget type="normal" playOrder="187"><navLabel><text>12</text></navLabel><content src="c01.xhtml#Page_12"/></pageTarget>
+<pageTarget type="normal" playOrder="188"><navLabel><text>13</text></navLabel><content src="c01.xhtml#Page_13"/></pageTarget>
+<pageTarget type="normal" playOrder="189"><navLabel><text>15</text></navLabel><content src="c02.xhtml#Page_15"/></pageTarget>
+<pageTarget type="normal" playOrder="190"><navLabel><text>16</text></navLabel><content src="c02.xhtml#Page_16"/></pageTarget>
+<pageTarget type="normal" playOrder="191"><navLabel><text>17</text></navLabel><content src="c02.xhtml#Page_17"/></pageTarget>
+<pageTarget type="normal" playOrder="192"><navLabel><text>18</text></navLabel><content src="c02.xhtml#Page_18"/></pageTarget>
+<pageTarget type="normal" playOrder="193"><navLabel><text>19</text></navLabel><content src="c02.xhtml#Page_19"/></pageTarget>
+<pageTarget type="normal" playOrder="194"><navLabel><text>20</text></navLabel><content src="c02.xhtml#Page_20"/></pageTarget>
+<pageTarget type="normal" playOrder="195"><navLabel><text>21</text></navLabel><content src="c02.xhtml#Page_21"/></pageTarget>
+<pageTarget type="normal" playOrder="196"><navLabel><text>22</text></navLabel><content src="c02.xhtml#Page_22"/></pageTarget>
+<pageTarget type="normal" playOrder="197"><navLabel><text>23</text></navLabel><content src="c02.xhtml#Page_23"/></pageTarget>
+<pageTarget type="normal" playOrder="198"><navLabel><text>24</text></navLabel><content src="c02.xhtml#Page_24"/></pageTarget>
+<pageTarget type="normal" playOrder="199"><navLabel><text>25</text></navLabel><content src="c02.xhtml#Page_25"/></pageTarget>
+<pageTarget type="normal" playOrder="200"><navLabel><text>27</text></navLabel><content src="c03.xhtml#Page_27"/></pageTarget>
+<pageTarget type="normal" playOrder="201"><navLabel><text>28</text></navLabel><content src="c03.xhtml#Page_28"/></pageTarget>
+<pageTarget type="normal" playOrder="202"><navLabel><text>29</text></navLabel><content src="c03.xhtml#Page_29"/></pageTarget>
+<pageTarget type="normal" playOrder="203"><navLabel><text>30</text></navLabel><content src="c03.xhtml#Page_30"/></pageTarget>
+<pageTarget type="normal" playOrder="204"><navLabel><text>31</text></navLabel><content src="c03.xhtml#Page_31"/></pageTarget>
+<pageTarget type="normal" playOrder="205"><navLabel><text>32</text></navLabel><content src="c03.xhtml#Page_32"/></pageTarget>
+<pageTarget type="normal" playOrder="206"><navLabel><text>33</text></navLabel><content src="c03.xhtml#Page_33"/></pageTarget>
+<pageTarget type="normal" playOrder="207"><navLabel><text>34</text></navLabel><content src="c03.xhtml#Page_34"/></pageTarget>
+<pageTarget type="normal" playOrder="208"><navLabel><text>35</text></navLabel><content src="c03.xhtml#Page_35"/></pageTarget>
+<pageTarget type="normal" playOrder="209"><navLabel><text>36</text></navLabel><content src="c03.xhtml#Page_36"/></pageTarget>
+<pageTarget type="normal" playOrder="210"><navLabel><text>37</text></navLabel><content src="c03.xhtml#Page_37"/></pageTarget>
+<pageTarget type="normal" playOrder="211"><navLabel><text>38</text></navLabel><content src="c03.xhtml#Page_38"/></pageTarget>
+<pageTarget type="normal" playOrder="212"><navLabel><text>39</text></navLabel><content src="c03.xhtml#Page_39"/></pageTarget>
+<pageTarget type="normal" playOrder="213"><navLabel><text>41</text></navLabel><content src="p02.xhtml#Page_41"/></pageTarget>
+<pageTarget type="normal" playOrder="214"><navLabel><text>42</text></navLabel><content src="p02.xhtml#Page_42"/></pageTarget>
+<pageTarget type="normal" playOrder="215"><navLabel><text>43</text></navLabel><content src="c04.xhtml#Page_43"/></pageTarget>
+<pageTarget type="normal" playOrder="216"><navLabel><text>44</text></navLabel><content src="c04.xhtml#Page_44"/></pageTarget>
+<pageTarget type="normal" playOrder="217"><navLabel><text>45</text></navLabel><content src="c04.xhtml#Page_45"/></pageTarget>
+<pageTarget type="normal" playOrder="218"><navLabel><text>46</text></navLabel><content src="c04.xhtml#Page_46"/></pageTarget>
+<pageTarget type="normal" playOrder="219"><navLabel><text>47</text></navLabel><content src="c04.xhtml#Page_47"/></pageTarget>
+<pageTarget type="normal" playOrder="220"><navLabel><text>48</text></navLabel><content src="c04.xhtml#Page_48"/></pageTarget>
+<pageTarget type="normal" playOrder="221"><navLabel><text>49</text></navLabel><content src="c04.xhtml#Page_49"/></pageTarget>
+<pageTarget type="normal" playOrder="222"><navLabel><text>50</text></navLabel><content src="c04.xhtml#Page_50"/></pageTarget>
+<pageTarget type="normal" playOrder="223"><navLabel><text>51</text></navLabel><content src="c04.xhtml#Page_51"/></pageTarget>
+<pageTarget type="normal" playOrder="224"><navLabel><text>52</text></navLabel><content src="c04.xhtml#Page_52"/></pageTarget>
+<pageTarget type="normal" playOrder="225"><navLabel><text>53</text></navLabel><content src="c04.xhtml#Page_53"/></pageTarget>
+<pageTarget type="normal" playOrder="226"><navLabel><text>54</text></navLabel><content src="c04.xhtml#Page_54"/></pageTarget>
+<pageTarget type="normal" playOrder="227"><navLabel><text>55</text></navLabel><content src="c04.xhtml#Page_55"/></pageTarget>
+<pageTarget type="normal" playOrder="228"><navLabel><text>57</text></navLabel><content src="c05.xhtml#Page_57"/></pageTarget>
+<pageTarget type="normal" playOrder="229"><navLabel><text>58</text></navLabel><content src="c05.xhtml#Page_58"/></pageTarget>
+<pageTarget type="normal" playOrder="230"><navLabel><text>59</text></navLabel><content src="c05.xhtml#Page_59"/></pageTarget>
+<pageTarget type="normal" playOrder="231"><navLabel><text>60</text></navLabel><content src="c05.xhtml#Page_60"/></pageTarget>
+<pageTarget type="normal" playOrder="232"><navLabel><text>61</text></navLabel><content src="c05.xhtml#Page_61"/></pageTarget>
+<pageTarget type="normal" playOrder="233"><navLabel><text>62</text></navLabel><content src="c05.xhtml#Page_62"/></pageTarget>
+<pageTarget type="normal" playOrder="234"><navLabel><text>63</text></navLabel><content src="c05.xhtml#Page_63"/></pageTarget>
+<pageTarget type="normal" playOrder="235"><navLabel><text>64</text></navLabel><content src="c05.xhtml#Page_64"/></pageTarget>
+<pageTarget type="normal" playOrder="236"><navLabel><text>65</text></navLabel><content src="c05.xhtml#Page_65"/></pageTarget>
+<pageTarget type="normal" playOrder="237"><navLabel><text>66</text></navLabel><content src="c05.xhtml#Page_66"/></pageTarget>
+<pageTarget type="normal" playOrder="238"><navLabel><text>67</text></navLabel><content src="c05.xhtml#Page_67"/></pageTarget>
+<pageTarget type="normal" playOrder="239"><navLabel><text>68</text></navLabel><content src="c05.xhtml#Page_68"/></pageTarget>
+<pageTarget type="normal" playOrder="240"><navLabel><text>69</text></navLabel><content src="c05.xhtml#Page_69"/></pageTarget>
+<pageTarget type="normal" playOrder="241"><navLabel><text>70</text></navLabel><content src="c05.xhtml#Page_70"/></pageTarget>
+<pageTarget type="normal" playOrder="242"><navLabel><text>71</text></navLabel><content src="c05.xhtml#Page_71"/></pageTarget>
+<pageTarget type="normal" playOrder="243"><navLabel><text>72</text></navLabel><content src="c05.xhtml#Page_72"/></pageTarget>
+<pageTarget type="normal" playOrder="244"><navLabel><text>73</text></navLabel><content src="c05.xhtml#Page_73"/></pageTarget>
+<pageTarget type="normal" playOrder="245"><navLabel><text>74</text></navLabel><content src="c05.xhtml#Page_74"/></pageTarget>
+<pageTarget type="normal" playOrder="246"><navLabel><text>75</text></navLabel><content src="c05.xhtml#Page_75"/></pageTarget>
+<pageTarget type="normal" playOrder="247"><navLabel><text>76</text></navLabel><content src="c05.xhtml#Page_76"/></pageTarget>
+<pageTarget type="normal" playOrder="248"><navLabel><text>77</text></navLabel><content src="c05.xhtml#Page_77"/></pageTarget>
+<pageTarget type="normal" playOrder="249"><navLabel><text>79</text></navLabel><content src="c06.xhtml#Page_79"/></pageTarget>
+<pageTarget type="normal" playOrder="250"><navLabel><text>80</text></navLabel><content src="c06.xhtml#Page_80"/></pageTarget>
+<pageTarget type="normal" playOrder="251"><navLabel><text>81</text></navLabel><content src="c06.xhtml#Page_81"/></pageTarget>
+<pageTarget type="normal" playOrder="252"><navLabel><text>82</text></navLabel><content src="c06.xhtml#Page_82"/></pageTarget>
+<pageTarget type="normal" playOrder="253"><navLabel><text>83</text></navLabel><content src="c06.xhtml#Page_83"/></pageTarget>
+<pageTarget type="normal" playOrder="254"><navLabel><text>84</text></navLabel><content src="c06.xhtml#Page_84"/></pageTarget>
+<pageTarget type="normal" playOrder="255"><navLabel><text>85</text></navLabel><content src="c06.xhtml#Page_85"/></pageTarget>
+<pageTarget type="normal" playOrder="256"><navLabel><text>86</text></navLabel><content src="c06.xhtml#Page_86"/></pageTarget>
+<pageTarget type="normal" playOrder="257"><navLabel><text>87</text></navLabel><content src="c06.xhtml#Page_87"/></pageTarget>
+<pageTarget type="normal" playOrder="258"><navLabel><text>88</text></navLabel><content src="c06.xhtml#Page_88"/></pageTarget>
+<pageTarget type="normal" playOrder="259"><navLabel><text>89</text></navLabel><content src="c06.xhtml#Page_89"/></pageTarget>
+<pageTarget type="normal" playOrder="260"><navLabel><text>90</text></navLabel><content src="c06.xhtml#Page_90"/></pageTarget>
+<pageTarget type="normal" playOrder="261"><navLabel><text>91</text></navLabel><content src="c06.xhtml#Page_91"/></pageTarget>
+<pageTarget type="normal" playOrder="262"><navLabel><text>92</text></navLabel><content src="c06.xhtml#Page_92"/></pageTarget>
+<pageTarget type="normal" playOrder="263"><navLabel><text>93</text></navLabel><content src="c06.xhtml#Page_93"/></pageTarget>
+<pageTarget type="normal" playOrder="264"><navLabel><text>94</text></navLabel><content src="c06.xhtml#Page_94"/></pageTarget>
+<pageTarget type="normal" playOrder="265"><navLabel><text>95</text></navLabel><content src="c06.xhtml#Page_95"/></pageTarget>
+<pageTarget type="normal" playOrder="266"><navLabel><text>96</text></navLabel><content src="c06.xhtml#Page_96"/></pageTarget>
+<pageTarget type="normal" playOrder="267"><navLabel><text>97</text></navLabel><content src="c06.xhtml#Page_97"/></pageTarget>
+<pageTarget type="normal" playOrder="268"><navLabel><text>98</text></navLabel><content src="c06.xhtml#Page_98"/></pageTarget>
+<pageTarget type="normal" playOrder="269"><navLabel><text>99</text></navLabel><content src="c06.xhtml#Page_99"/></pageTarget>
+<pageTarget type="normal" playOrder="270"><navLabel><text>100</text></navLabel><content src="c06.xhtml#Page_100"/></pageTarget>
+<pageTarget type="normal" playOrder="271"><navLabel><text>101</text></navLabel><content src="c07.xhtml#Page_101"/></pageTarget>
+<pageTarget type="normal" playOrder="272"><navLabel><text>102</text></navLabel><content src="c07.xhtml#Page_102"/></pageTarget>
+<pageTarget type="normal" playOrder="273"><navLabel><text>103</text></navLabel><content src="c07.xhtml#Page_103"/></pageTarget>
+<pageTarget type="normal" playOrder="274"><navLabel><text>104</text></navLabel><content src="c07.xhtml#Page_104"/></pageTarget>
+<pageTarget type="normal" playOrder="275"><navLabel><text>105</text></navLabel><content src="c07.xhtml#Page_105"/></pageTarget>
+<pageTarget type="normal" playOrder="276"><navLabel><text>106</text></navLabel><content src="c07.xhtml#Page_106"/></pageTarget>
+<pageTarget type="normal" playOrder="277"><navLabel><text>107</text></navLabel><content src="c07.xhtml#Page_107"/></pageTarget>
+<pageTarget type="normal" playOrder="278"><navLabel><text>108</text></navLabel><content src="c07.xhtml#Page_108"/></pageTarget>
+<pageTarget type="normal" playOrder="279"><navLabel><text>109</text></navLabel><content src="c07.xhtml#Page_109"/></pageTarget>
+<pageTarget type="normal" playOrder="280"><navLabel><text>110</text></navLabel><content src="c07.xhtml#Page_110"/></pageTarget>
+<pageTarget type="normal" playOrder="281"><navLabel><text>111</text></navLabel><content src="c07.xhtml#Page_111"/></pageTarget>
+<pageTarget type="normal" playOrder="282"><navLabel><text>112</text></navLabel><content src="c07.xhtml#Page_112"/></pageTarget>
+<pageTarget type="normal" playOrder="283"><navLabel><text>113</text></navLabel><content src="c07.xhtml#Page_113"/></pageTarget>
+<pageTarget type="normal" playOrder="284"><navLabel><text>114</text></navLabel><content src="c07.xhtml#Page_114"/></pageTarget>
+<pageTarget type="normal" playOrder="285"><navLabel><text>115</text></navLabel><content src="c07.xhtml#Page_115"/></pageTarget>
+<pageTarget type="normal" playOrder="286"><navLabel><text>116</text></navLabel><content src="c07.xhtml#Page_116"/></pageTarget>
+<pageTarget type="normal" playOrder="287"><navLabel><text>117</text></navLabel><content src="c07.xhtml#Page_117"/></pageTarget>
+<pageTarget type="normal" playOrder="288"><navLabel><text>118</text></navLabel><content src="c07.xhtml#Page_118"/></pageTarget>
+<pageTarget type="normal" playOrder="289"><navLabel><text>119</text></navLabel><content src="c07.xhtml#Page_119"/></pageTarget>
+<pageTarget type="normal" playOrder="290"><navLabel><text>121</text></navLabel><content src="c08.xhtml#Page_121"/></pageTarget>
+<pageTarget type="normal" playOrder="291"><navLabel><text>122</text></navLabel><content src="c08.xhtml#Page_122"/></pageTarget>
+<pageTarget type="normal" playOrder="292"><navLabel><text>123</text></navLabel><content src="c08.xhtml#Page_123"/></pageTarget>
+<pageTarget type="normal" playOrder="293"><navLabel><text>124</text></navLabel><content src="c08.xhtml#Page_124"/></pageTarget>
+<pageTarget type="normal" playOrder="294"><navLabel><text>125</text></navLabel><content src="c08.xhtml#Page_125"/></pageTarget>
+<pageTarget type="normal" playOrder="295"><navLabel><text>126</text></navLabel><content src="c08.xhtml#Page_126"/></pageTarget>
+<pageTarget type="normal" playOrder="296"><navLabel><text>127</text></navLabel><content src="c08.xhtml#Page_127"/></pageTarget>
+<pageTarget type="normal" playOrder="297"><navLabel><text>128</text></navLabel><content src="c08.xhtml#Page_128"/></pageTarget>
+<pageTarget type="normal" playOrder="298"><navLabel><text>129</text></navLabel><content src="c08.xhtml#Page_129"/></pageTarget>
+<pageTarget type="normal" playOrder="299"><navLabel><text>130</text></navLabel><content src="c08.xhtml#Page_130"/></pageTarget>
+<pageTarget type="normal" playOrder="300"><navLabel><text>131</text></navLabel><content src="c08.xhtml#Page_131"/></pageTarget>
+<pageTarget type="normal" playOrder="301"><navLabel><text>132</text></navLabel><content src="c08.xhtml#Page_132"/></pageTarget>
+<pageTarget type="normal" playOrder="302"><navLabel><text>133</text></navLabel><content src="c08.xhtml#Page_133"/></pageTarget>
+<pageTarget type="normal" playOrder="303"><navLabel><text>134</text></navLabel><content src="c08.xhtml#Page_134"/></pageTarget>
+<pageTarget type="normal" playOrder="304"><navLabel><text>135</text></navLabel><content src="c08.xhtml#Page_135"/></pageTarget>
+<pageTarget type="normal" playOrder="305"><navLabel><text>136</text></navLabel><content src="c08.xhtml#Page_136"/></pageTarget>
+<pageTarget type="normal" playOrder="306"><navLabel><text>137</text></navLabel><content src="c08.xhtml#Page_137"/></pageTarget>
+<pageTarget type="normal" playOrder="307"><navLabel><text>138</text></navLabel><content src="c08.xhtml#Page_138"/></pageTarget>
+<pageTarget type="normal" playOrder="308"><navLabel><text>139</text></navLabel><content src="c08.xhtml#Page_139"/></pageTarget>
+<pageTarget type="normal" playOrder="309"><navLabel><text>140</text></navLabel><content src="c08.xhtml#Page_140"/></pageTarget>
+<pageTarget type="normal" playOrder="310"><navLabel><text>141</text></navLabel><content src="c09.xhtml#Page_141"/></pageTarget>
+<pageTarget type="normal" playOrder="311"><navLabel><text>142</text></navLabel><content src="c09.xhtml#Page_142"/></pageTarget>
+<pageTarget type="normal" playOrder="312"><navLabel><text>143</text></navLabel><content src="c09.xhtml#Page_143"/></pageTarget>
+<pageTarget type="normal" playOrder="313"><navLabel><text>144</text></navLabel><content src="c09.xhtml#Page_144"/></pageTarget>
+<pageTarget type="normal" playOrder="314"><navLabel><text>145</text></navLabel><content src="c09.xhtml#Page_145"/></pageTarget>
+<pageTarget type="normal" playOrder="315"><navLabel><text>146</text></navLabel><content src="c09.xhtml#Page_146"/></pageTarget>
+<pageTarget type="normal" playOrder="316"><navLabel><text>147</text></navLabel><content src="c09.xhtml#Page_147"/></pageTarget>
+<pageTarget type="normal" playOrder="317"><navLabel><text>148</text></navLabel><content src="c09.xhtml#Page_148"/></pageTarget>
+<pageTarget type="normal" playOrder="318"><navLabel><text>149</text></navLabel><content src="c09.xhtml#Page_149"/></pageTarget>
+<pageTarget type="normal" playOrder="319"><navLabel><text>150</text></navLabel><content src="c09.xhtml#Page_150"/></pageTarget>
+<pageTarget type="normal" playOrder="320"><navLabel><text>151</text></navLabel><content src="c09.xhtml#Page_151"/></pageTarget>
+<pageTarget type="normal" playOrder="321"><navLabel><text>153</text></navLabel><content src="p03.xhtml#Page_153"/></pageTarget>
+<pageTarget type="normal" playOrder="322"><navLabel><text>154</text></navLabel><content src="p03.xhtml#Page_154"/></pageTarget>
+<pageTarget type="normal" playOrder="323"><navLabel><text>155</text></navLabel><content src="c10.xhtml#Page_155"/></pageTarget>
+<pageTarget type="normal" playOrder="324"><navLabel><text>156</text></navLabel><content src="c10.xhtml#Page_156"/></pageTarget>
+<pageTarget type="normal" playOrder="325"><navLabel><text>157</text></navLabel><content src="c10.xhtml#Page_157"/></pageTarget>
+<pageTarget type="normal" playOrder="326"><navLabel><text>158</text></navLabel><content src="c10.xhtml#Page_158"/></pageTarget>
+<pageTarget type="normal" playOrder="327"><navLabel><text>159</text></navLabel><content src="c10.xhtml#Page_159"/></pageTarget>
+<pageTarget type="normal" playOrder="328"><navLabel><text>160</text></navLabel><content src="c10.xhtml#Page_160"/></pageTarget>
+<pageTarget type="normal" playOrder="329"><navLabel><text>161</text></navLabel><content src="c10.xhtml#Page_161"/></pageTarget>
+<pageTarget type="normal" playOrder="330"><navLabel><text>162</text></navLabel><content src="c10.xhtml#Page_162"/></pageTarget>
+<pageTarget type="normal" playOrder="331"><navLabel><text>163</text></navLabel><content src="c11.xhtml#Page_163"/></pageTarget>
+<pageTarget type="normal" playOrder="332"><navLabel><text>164</text></navLabel><content src="c11.xhtml#Page_164"/></pageTarget>
+<pageTarget type="normal" playOrder="333"><navLabel><text>165</text></navLabel><content src="c11.xhtml#Page_165"/></pageTarget>
+<pageTarget type="normal" playOrder="334"><navLabel><text>166</text></navLabel><content src="c11.xhtml#Page_166"/></pageTarget>
+<pageTarget type="normal" playOrder="335"><navLabel><text>167</text></navLabel><content src="c11.xhtml#Page_167"/></pageTarget>
+<pageTarget type="normal" playOrder="336"><navLabel><text>168</text></navLabel><content src="c11.xhtml#Page_168"/></pageTarget>
+<pageTarget type="normal" playOrder="337"><navLabel><text>169</text></navLabel><content src="c11.xhtml#Page_169"/></pageTarget>
+<pageTarget type="normal" playOrder="338"><navLabel><text>170</text></navLabel><content src="c11.xhtml#Page_170"/></pageTarget>
+<pageTarget type="normal" playOrder="339"><navLabel><text>171</text></navLabel><content src="c11.xhtml#Page_171"/></pageTarget>
+<pageTarget type="normal" playOrder="340"><navLabel><text>172</text></navLabel><content src="c11.xhtml#Page_172"/></pageTarget>
+<pageTarget type="normal" playOrder="341"><navLabel><text>173</text></navLabel><content src="c11.xhtml#Page_173"/></pageTarget>
+<pageTarget type="normal" playOrder="342"><navLabel><text>174</text></navLabel><content src="c11.xhtml#Page_174"/></pageTarget>
+<pageTarget type="normal" playOrder="343"><navLabel><text>175</text></navLabel><content src="c11.xhtml#Page_175"/></pageTarget>
+<pageTarget type="normal" playOrder="344"><navLabel><text>176</text></navLabel><content src="c11.xhtml#Page_176"/></pageTarget>
+<pageTarget type="normal" playOrder="345"><navLabel><text>177</text></navLabel><content src="c11.xhtml#Page_177"/></pageTarget>
+<pageTarget type="normal" playOrder="346"><navLabel><text>178</text></navLabel><content src="c11.xhtml#Page_178"/></pageTarget>
+<pageTarget type="normal" playOrder="347"><navLabel><text>179</text></navLabel><content src="c11.xhtml#Page_179"/></pageTarget>
+<pageTarget type="normal" playOrder="348"><navLabel><text>180</text></navLabel><content src="c11.xhtml#Page_180"/></pageTarget>
+<pageTarget type="normal" playOrder="349"><navLabel><text>181</text></navLabel><content src="c11.xhtml#Page_181"/></pageTarget>
+<pageTarget type="normal" playOrder="350"><navLabel><text>182</text></navLabel><content src="c11.xhtml#Page_182"/></pageTarget>
+<pageTarget type="normal" playOrder="351"><navLabel><text>183</text></navLabel><content src="c12.xhtml#Page_183"/></pageTarget>
+<pageTarget type="normal" playOrder="352"><navLabel><text>184</text></navLabel><content src="c12.xhtml#Page_184"/></pageTarget>
+<pageTarget type="normal" playOrder="353"><navLabel><text>185</text></navLabel><content src="c12.xhtml#Page_185"/></pageTarget>
+<pageTarget type="normal" playOrder="354"><navLabel><text>186</text></navLabel><content src="c12.xhtml#Page_186"/></pageTarget>
+<pageTarget type="normal" playOrder="355"><navLabel><text>187</text></navLabel><content src="c12.xhtml#Page_187"/></pageTarget>
+<pageTarget type="normal" playOrder="356"><navLabel><text>188</text></navLabel><content src="c12.xhtml#Page_188"/></pageTarget>
+<pageTarget type="normal" playOrder="357"><navLabel><text>189</text></navLabel><content src="c12.xhtml#Page_189"/></pageTarget>
+<pageTarget type="normal" playOrder="358"><navLabel><text>190</text></navLabel><content src="c12.xhtml#Page_190"/></pageTarget>
+<pageTarget type="normal" playOrder="359"><navLabel><text>191</text></navLabel><content src="c12.xhtml#Page_191"/></pageTarget>
+<pageTarget type="normal" playOrder="360"><navLabel><text>192</text></navLabel><content src="c12.xhtml#Page_192"/></pageTarget>
+<pageTarget type="normal" playOrder="361"><navLabel><text>193</text></navLabel><content src="c12.xhtml#Page_193"/></pageTarget>
+<pageTarget type="normal" playOrder="362"><navLabel><text>194</text></navLabel><content src="c12.xhtml#Page_194"/></pageTarget>
+<pageTarget type="normal" playOrder="363"><navLabel><text>195</text></navLabel><content src="c12.xhtml#Page_195"/></pageTarget>
+<pageTarget type="normal" playOrder="364"><navLabel><text>196</text></navLabel><content src="c12.xhtml#Page_196"/></pageTarget>
+<pageTarget type="normal" playOrder="365"><navLabel><text>197</text></navLabel><content src="c12.xhtml#Page_197"/></pageTarget>
+<pageTarget type="normal" playOrder="366"><navLabel><text>198</text></navLabel><content src="c12.xhtml#Page_198"/></pageTarget>
+<pageTarget type="normal" playOrder="367"><navLabel><text>199</text></navLabel><content src="c12.xhtml#Page_199"/></pageTarget>
+<pageTarget type="normal" playOrder="368"><navLabel><text>201</text></navLabel><content src="c13.xhtml#Page_201"/></pageTarget>
+<pageTarget type="normal" playOrder="369"><navLabel><text>202</text></navLabel><content src="c13.xhtml#Page_202"/></pageTarget>
+<pageTarget type="normal" playOrder="370"><navLabel><text>203</text></navLabel><content src="c13.xhtml#Page_203"/></pageTarget>
+<pageTarget type="normal" playOrder="371"><navLabel><text>204</text></navLabel><content src="c13.xhtml#Page_204"/></pageTarget>
+<pageTarget type="normal" playOrder="372"><navLabel><text>205</text></navLabel><content src="c13.xhtml#Page_205"/></pageTarget>
+<pageTarget type="normal" playOrder="373"><navLabel><text>206</text></navLabel><content src="c13.xhtml#Page_206"/></pageTarget>
+<pageTarget type="normal" playOrder="374"><navLabel><text>207</text></navLabel><content src="c13.xhtml#Page_207"/></pageTarget>
+<pageTarget type="normal" playOrder="375"><navLabel><text>208</text></navLabel><content src="c13.xhtml#Page_208"/></pageTarget>
+<pageTarget type="normal" playOrder="376"><navLabel><text>209</text></navLabel><content src="c13.xhtml#Page_209"/></pageTarget>
+<pageTarget type="normal" playOrder="377"><navLabel><text>211</text></navLabel><content src="p04.xhtml#Page_211"/></pageTarget>
+<pageTarget type="normal" playOrder="378"><navLabel><text>212</text></navLabel><content src="p04.xhtml#Page_212"/></pageTarget>
+<pageTarget type="normal" playOrder="379"><navLabel><text>213</text></navLabel><content src="c14.xhtml#Page_213"/></pageTarget>
+<pageTarget type="normal" playOrder="380"><navLabel><text>214</text></navLabel><content src="c14.xhtml#Page_214"/></pageTarget>
+<pageTarget type="normal" playOrder="381"><navLabel><text>215</text></navLabel><content src="c14.xhtml#Page_215"/></pageTarget>
+<pageTarget type="normal" playOrder="382"><navLabel><text>216</text></navLabel><content src="c14.xhtml#Page_216"/></pageTarget>
+<pageTarget type="normal" playOrder="383"><navLabel><text>217</text></navLabel><content src="c14.xhtml#Page_217"/></pageTarget>
+<pageTarget type="normal" playOrder="384"><navLabel><text>218</text></navLabel><content src="c14.xhtml#Page_218"/></pageTarget>
+<pageTarget type="normal" playOrder="385"><navLabel><text>219</text></navLabel><content src="c14.xhtml#Page_219"/></pageTarget>
+<pageTarget type="normal" playOrder="386"><navLabel><text>220</text></navLabel><content src="c14.xhtml#Page_220"/></pageTarget>
+<pageTarget type="normal" playOrder="387"><navLabel><text>221</text></navLabel><content src="c14.xhtml#Page_221"/></pageTarget>
+<pageTarget type="normal" playOrder="388"><navLabel><text>223</text></navLabel><content src="c15.xhtml#Page_223"/></pageTarget>
+<pageTarget type="normal" playOrder="389"><navLabel><text>224</text></navLabel><content src="c15.xhtml#Page_224"/></pageTarget>
+<pageTarget type="normal" playOrder="390"><navLabel><text>225</text></navLabel><content src="c15.xhtml#Page_225"/></pageTarget>
+<pageTarget type="normal" playOrder="391"><navLabel><text>226</text></navLabel><content src="c15.xhtml#Page_226"/></pageTarget>
+<pageTarget type="normal" playOrder="392"><navLabel><text>227</text></navLabel><content src="c15.xhtml#Page_227"/></pageTarget>
+<pageTarget type="normal" playOrder="393"><navLabel><text>228</text></navLabel><content src="c15.xhtml#Page_228"/></pageTarget>
+<pageTarget type="normal" playOrder="394"><navLabel><text>229</text></navLabel><content src="c15.xhtml#Page_229"/></pageTarget>
+<pageTarget type="normal" playOrder="395"><navLabel><text>230</text></navLabel><content src="c15.xhtml#Page_230"/></pageTarget>
+<pageTarget type="normal" playOrder="396"><navLabel><text>231</text></navLabel><content src="c15.xhtml#Page_231"/></pageTarget>
+<pageTarget type="normal" playOrder="397"><navLabel><text>232</text></navLabel><content src="c15.xhtml#Page_232"/></pageTarget>
+<pageTarget type="normal" playOrder="398"><navLabel><text>233</text></navLabel><content src="c15.xhtml#Page_233"/></pageTarget>
+<pageTarget type="normal" playOrder="399"><navLabel><text>234</text></navLabel><content src="c15.xhtml#Page_234"/></pageTarget>
+<pageTarget type="normal" playOrder="400"><navLabel><text>235</text></navLabel><content src="c15.xhtml#Page_235"/></pageTarget>
+<pageTarget type="normal" playOrder="401"><navLabel><text>236</text></navLabel><content src="c15.xhtml#Page_236"/></pageTarget>
+<pageTarget type="normal" playOrder="402"><navLabel><text>237</text></navLabel><content src="c15.xhtml#Page_237"/></pageTarget>
+<pageTarget type="normal" playOrder="403"><navLabel><text>238</text></navLabel><content src="c15.xhtml#Page_238"/></pageTarget>
+<pageTarget type="normal" playOrder="404"><navLabel><text>239</text></navLabel><content src="c16.xhtml#Page_239"/></pageTarget>
+<pageTarget type="normal" playOrder="405"><navLabel><text>240</text></navLabel><content src="c16.xhtml#Page_240"/></pageTarget>
+<pageTarget type="normal" playOrder="406"><navLabel><text>241</text></navLabel><content src="c16.xhtml#Page_241"/></pageTarget>
+<pageTarget type="normal" playOrder="407"><navLabel><text>242</text></navLabel><content src="c16.xhtml#Page_242"/></pageTarget>
+<pageTarget type="normal" playOrder="408"><navLabel><text>243</text></navLabel><content src="c16.xhtml#Page_243"/></pageTarget>
+<pageTarget type="normal" playOrder="409"><navLabel><text>244</text></navLabel><content src="c16.xhtml#Page_244"/></pageTarget>
+<pageTarget type="normal" playOrder="410"><navLabel><text>245</text></navLabel><content src="c16.xhtml#Page_245"/></pageTarget>
+<pageTarget type="normal" playOrder="411"><navLabel><text>246</text></navLabel><content src="c16.xhtml#Page_246"/></pageTarget>
+<pageTarget type="normal" playOrder="412"><navLabel><text>247</text></navLabel><content src="c16.xhtml#Page_247"/></pageTarget>
+<pageTarget type="normal" playOrder="413"><navLabel><text>249</text></navLabel><content src="p05.xhtml#Page_249"/></pageTarget>
+<pageTarget type="normal" playOrder="414"><navLabel><text>250</text></navLabel><content src="p05.xhtml#Page_250"/></pageTarget>
+<pageTarget type="normal" playOrder="415"><navLabel><text>251</text></navLabel><content src="c17.xhtml#Page_251"/></pageTarget>
+<pageTarget type="normal" playOrder="416"><navLabel><text>252</text></navLabel><content src="c17.xhtml#Page_252"/></pageTarget>
+<pageTarget type="normal" playOrder="417"><navLabel><text>253</text></navLabel><content src="c17.xhtml#Page_253"/></pageTarget>
+<pageTarget type="normal" playOrder="418"><navLabel><text>254</text></navLabel><content src="c17.xhtml#Page_254"/></pageTarget>
+<pageTarget type="normal" playOrder="419"><navLabel><text>255</text></navLabel><content src="c17.xhtml#Page_255"/></pageTarget>
+<pageTarget type="normal" playOrder="420"><navLabel><text>256</text></navLabel><content src="c17.xhtml#Page_256"/></pageTarget>
+<pageTarget type="normal" playOrder="421"><navLabel><text>257</text></navLabel><content src="c17.xhtml#Page_257"/></pageTarget>
+<pageTarget type="normal" playOrder="422"><navLabel><text>258</text></navLabel><content src="c17.xhtml#Page_258"/></pageTarget>
+<pageTarget type="normal" playOrder="423"><navLabel><text>259</text></navLabel><content src="c17.xhtml#Page_259"/></pageTarget>
+<pageTarget type="normal" playOrder="424"><navLabel><text>260</text></navLabel><content src="c17.xhtml#Page_260"/></pageTarget>
+<pageTarget type="normal" playOrder="425"><navLabel><text>261</text></navLabel><content src="c17.xhtml#Page_261"/></pageTarget>
+<pageTarget type="normal" playOrder="426"><navLabel><text>262</text></navLabel><content src="c17.xhtml#Page_262"/></pageTarget>
+<pageTarget type="normal" playOrder="427"><navLabel><text>263</text></navLabel><content src="c17.xhtml#Page_263"/></pageTarget>
+<pageTarget type="normal" playOrder="428"><navLabel><text>265</text></navLabel><content src="c18.xhtml#Page_265"/></pageTarget>
+<pageTarget type="normal" playOrder="429"><navLabel><text>266</text></navLabel><content src="c18.xhtml#Page_266"/></pageTarget>
+<pageTarget type="normal" playOrder="430"><navLabel><text>267</text></navLabel><content src="c18.xhtml#Page_267"/></pageTarget>
+<pageTarget type="normal" playOrder="431"><navLabel><text>268</text></navLabel><content src="c18.xhtml#Page_268"/></pageTarget>
+<pageTarget type="normal" playOrder="432"><navLabel><text>269</text></navLabel><content src="c18.xhtml#Page_269"/></pageTarget>
+<pageTarget type="normal" playOrder="433"><navLabel><text>270</text></navLabel><content src="c18.xhtml#Page_270"/></pageTarget>
+<pageTarget type="normal" playOrder="434"><navLabel><text>271</text></navLabel><content src="c18.xhtml#Page_271"/></pageTarget>
+<pageTarget type="normal" playOrder="435"><navLabel><text>272</text></navLabel><content src="c18.xhtml#Page_272"/></pageTarget>
+<pageTarget type="normal" playOrder="436"><navLabel><text>273</text></navLabel><content src="c18.xhtml#Page_273"/></pageTarget>
+<pageTarget type="normal" playOrder="437"><navLabel><text>274</text></navLabel><content src="c18.xhtml#Page_274"/></pageTarget>
+<pageTarget type="normal" playOrder="438"><navLabel><text>275</text></navLabel><content src="c18.xhtml#Page_275"/></pageTarget>
+<pageTarget type="normal" playOrder="439"><navLabel><text>276</text></navLabel><content src="c18.xhtml#Page_276"/></pageTarget>
+<pageTarget type="normal" playOrder="440"><navLabel><text>277</text></navLabel><content src="c18.xhtml#Page_277"/></pageTarget>
+<pageTarget type="normal" playOrder="441"><navLabel><text>278</text></navLabel><content src="c18.xhtml#Page_278"/></pageTarget>
+<pageTarget type="normal" playOrder="442"><navLabel><text>279</text></navLabel><content src="c18.xhtml#Page_279"/></pageTarget>
+<pageTarget type="normal" playOrder="443"><navLabel><text>280</text></navLabel><content src="c18.xhtml#Page_280"/></pageTarget>
+<pageTarget type="normal" playOrder="444"><navLabel><text>281</text></navLabel><content src="c18.xhtml#Page_281"/></pageTarget>
+<pageTarget type="normal" playOrder="445"><navLabel><text>283</text></navLabel><content src="p06.xhtml#Page_283"/></pageTarget>
+<pageTarget type="normal" playOrder="446"><navLabel><text>284</text></navLabel><content src="p06.xhtml#Page_284"/></pageTarget>
+<pageTarget type="normal" playOrder="447"><navLabel><text>285</text></navLabel><content src="c19.xhtml#Page_285"/></pageTarget>
+<pageTarget type="normal" playOrder="448"><navLabel><text>286</text></navLabel><content src="c19.xhtml#Page_286"/></pageTarget>
+<pageTarget type="normal" playOrder="449"><navLabel><text>287</text></navLabel><content src="c19.xhtml#Page_287"/></pageTarget>
+<pageTarget type="normal" playOrder="450"><navLabel><text>288</text></navLabel><content src="c19.xhtml#Page_288"/></pageTarget>
+<pageTarget type="normal" playOrder="451"><navLabel><text>289</text></navLabel><content src="c19.xhtml#Page_289"/></pageTarget>
+<pageTarget type="normal" playOrder="452"><navLabel><text>290</text></navLabel><content src="c19.xhtml#Page_290"/></pageTarget>
+<pageTarget type="normal" playOrder="453"><navLabel><text>291</text></navLabel><content src="c20.xhtml#Page_291"/></pageTarget>
+<pageTarget type="normal" playOrder="454"><navLabel><text>292</text></navLabel><content src="c20.xhtml#Page_292"/></pageTarget>
+<pageTarget type="normal" playOrder="455"><navLabel><text>293</text></navLabel><content src="c20.xhtml#Page_293"/></pageTarget>
+<pageTarget type="normal" playOrder="456"><navLabel><text>294</text></navLabel><content src="c20.xhtml#Page_294"/></pageTarget>
+<pageTarget type="normal" playOrder="457"><navLabel><text>295</text></navLabel><content src="c20.xhtml#Page_295"/></pageTarget>
+<pageTarget type="normal" playOrder="458"><navLabel><text>296</text></navLabel><content src="c20.xhtml#Page_296"/></pageTarget>
+<pageTarget type="normal" playOrder="459"><navLabel><text>297</text></navLabel><content src="c21.xhtml#Page_297"/></pageTarget>
+<pageTarget type="normal" playOrder="460"><navLabel><text>298</text></navLabel><content src="c21.xhtml#Page_298"/></pageTarget>
+<pageTarget type="normal" playOrder="461"><navLabel><text>299</text></navLabel><content src="c21.xhtml#Page_299"/></pageTarget>
+<pageTarget type="normal" playOrder="462"><navLabel><text>300</text></navLabel><content src="c21.xhtml#Page_300"/></pageTarget>
+<pageTarget type="normal" playOrder="463"><navLabel><text>301</text></navLabel><content src="c21.xhtml#Page_301"/></pageTarget>
+<pageTarget type="normal" playOrder="464"><navLabel><text>302</text></navLabel><content src="c21.xhtml#Page_302"/></pageTarget>
+<pageTarget type="normal" playOrder="465"><navLabel><text>303</text></navLabel><content src="c22.xhtml#Page_303"/></pageTarget>
+<pageTarget type="normal" playOrder="466"><navLabel><text>304</text></navLabel><content src="c22.xhtml#Page_304"/></pageTarget>
+<pageTarget type="normal" playOrder="467"><navLabel><text>305</text></navLabel><content src="c22.xhtml#Page_305"/></pageTarget>
+<pageTarget type="normal" playOrder="468"><navLabel><text>306</text></navLabel><content src="c22.xhtml#Page_306"/></pageTarget>
+<pageTarget type="normal" playOrder="469"><navLabel><text>307</text></navLabel><content src="c22.xhtml#Page_307"/></pageTarget>
+<pageTarget type="normal" playOrder="470"><navLabel><text>308</text></navLabel><content src="c22.xhtml#Page_308"/></pageTarget>
+<pageTarget type="normal" playOrder="471"><navLabel><text>309</text></navLabel><content src="c22.xhtml#Page_309"/></pageTarget>
+<pageTarget type="normal" playOrder="472"><navLabel><text>310</text></navLabel><content src="c22.xhtml#Page_310"/></pageTarget>
+<pageTarget type="normal" playOrder="473"><navLabel><text>311</text></navLabel><content src="c22.xhtml#Page_311"/></pageTarget>
+<pageTarget type="normal" playOrder="474"><navLabel><text>312</text></navLabel><content src="c22.xhtml#Page_312"/></pageTarget>
+<pageTarget type="normal" playOrder="475"><navLabel><text>313</text></navLabel><content src="c22.xhtml#Page_313"/></pageTarget>
+<pageTarget type="normal" playOrder="476"><navLabel><text>315</text></navLabel><content src="b01.xhtml#Page_315"/></pageTarget>
+<pageTarget type="normal" playOrder="477"><navLabel><text>316</text></navLabel><content src="b01.xhtml#Page_316"/></pageTarget>
+<pageTarget type="normal" playOrder="478"><navLabel><text>317</text></navLabel><content src="b01.xhtml#Page_317"/></pageTarget>
+<pageTarget type="normal" playOrder="479"><navLabel><text>318</text></navLabel><content src="b01.xhtml#Page_318"/></pageTarget>
+<pageTarget type="normal" playOrder="480"><navLabel><text>319</text></navLabel><content src="b01.xhtml#Page_319"/></pageTarget>
+<pageTarget type="normal" playOrder="481"><navLabel><text>320</text></navLabel><content src="b01.xhtml#Page_320"/></pageTarget>
+<pageTarget type="normal" playOrder="482"><navLabel><text>321</text></navLabel><content src="b01.xhtml#Page_321"/></pageTarget>
+<pageTarget type="normal" playOrder="483"><navLabel><text>322</text></navLabel><content src="b01.xhtml#Page_322"/></pageTarget>
+<pageTarget type="normal" playOrder="484"><navLabel><text>323</text></navLabel><content src="b01.xhtml#Page_323"/></pageTarget>
+<pageTarget type="normal" playOrder="485"><navLabel><text>324</text></navLabel><content src="b01.xhtml#Page_324"/></pageTarget>
+<pageTarget type="normal" playOrder="486"><navLabel><text>325</text></navLabel><content src="b01.xhtml#Page_325"/></pageTarget>
+<pageTarget type="normal" playOrder="487"><navLabel><text>326</text></navLabel><content src="b01.xhtml#Page_326"/></pageTarget>
+<pageTarget type="normal" playOrder="488"><navLabel><text>327</text></navLabel><content src="b01.xhtml#Page_327"/></pageTarget>
+<pageTarget type="normal" playOrder="489"><navLabel><text>328</text></navLabel><content src="b01.xhtml#Page_328"/></pageTarget>
+<pageTarget type="normal" playOrder="490"><navLabel><text>329</text></navLabel><content src="b01.xhtml#Page_329"/></pageTarget>
+<pageTarget type="normal" playOrder="491"><navLabel><text>330</text></navLabel><content src="b01.xhtml#Page_330"/></pageTarget>
+<pageTarget type="normal" playOrder="492"><navLabel><text>331</text></navLabel><content src="b01.xhtml#Page_331"/></pageTarget>
+<pageTarget type="normal" playOrder="493"><navLabel><text>332</text></navLabel><content src="b01.xhtml#Page_332"/></pageTarget>
+<pageTarget type="normal" playOrder="494"><navLabel><text>333</text></navLabel><content src="b01.xhtml#Page_333"/></pageTarget>
+<pageTarget type="normal" playOrder="495"><navLabel><text>334</text></navLabel><content src="b01.xhtml#Page_334"/></pageTarget>
+<pageTarget type="normal" playOrder="496"><navLabel><text>335</text></navLabel><content src="b02.xhtml#Page_335"/></pageTarget>
+<pageTarget type="normal" playOrder="497"><navLabel><text>336</text></navLabel><content src="b02.xhtml#Page_336"/></pageTarget>
+<pageTarget type="normal" playOrder="498"><navLabel><text>337</text></navLabel><content src="eula.xhtml#Page_337"/></pageTarget>
+</pageList>
+</ncx>

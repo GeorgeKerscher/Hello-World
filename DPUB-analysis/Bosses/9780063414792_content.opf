@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" unique-identifier="bookid" xml:lang="en" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ tdm: http://www.w3.org/ns/tdmrep# a11y: http://www.idpf.org/epub/vocab/package/a11y/# schema: http://schema.org/" xmlns="http://www.idpf.org/2007/opf">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title id="en_title" xml:lang="en">The Bosses of the Bronx</dc:title>
+<meta refines="#en_title" property="title-type">main</meta>
+<dc:creator id="creator">Mike Vaccaro</dc:creator>
+<meta refines="#creator" property="role" scheme="marc:relators" id="role1">aut</meta>
+<meta refines="#creator" property="file-as">Vaccaro, Mike</meta>
+<dc:source id="isbn">urn:isbn:9780063414778</dc:source>
+<meta refines="#isbn" property="source-of">pagination</meta>
+<dc:contributor>Mike Vaccaro</dc:contributor>
+<dc:language>en</dc:language>
+<dc:identifier id="bookid">9780063414792</dc:identifier>
+<dc:format>385 pages</dc:format>
+<dc:type>Text</dc:type>
+<dc:date>2026</dc:date>
+<dc:publisher>HarperCollinsPublishers</dc:publisher>
+<dc:rights>All rights reserved.</dc:rights>
+<meta property="dcterms:modified">2026-01-31T11:58:00Z</meta>
+<meta name="cover" content="cover-image"/>
+<meta property="tdm:reservation">1</meta>
+<meta property="tdm:policy">https://www.harpercollins.com/cdn/shop/files/tdm-policy.json</meta>
+<meta property="schema:accessMode">textual</meta>
+<meta property="schema:accessMode">visual</meta>
+<meta property="schema:accessModeSufficient">textual,visual</meta>
+<meta property="schema:accessModeSufficient">textual</meta>
+<meta property="schema:accessibilityFeature">alternativeText</meta>
+<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+<meta property="schema:accessibilityFeature">readingOrder</meta>
+<meta property="schema:accessibilityFeature">tableOfContents</meta>
+<meta property="schema:accessibilityFeature">pageBreakMarkers</meta>
+<meta property="schema:accessibilityFeature">printPageNumbers</meta>
+<meta property="schema:accessibilityFeature">index</meta>
+<meta property="schema:accessibilityHazard">none</meta>
+<meta property="schema:accessibilitySummary">This title is a well-marked up and structured book, which is fully accessible. The images of this book are well described and, when necessary, short alt texts and/or extended longer descriptions are provided. This ebook passes Daisy’s Ace WCAG 2.0 Level AA check.</meta>
+<meta property="a11y:certifiedBy">Verified and Validated by Harpercollins, Inc.</meta>
+<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo" />
+</metadata>
+<manifest>
+<item id="ncx" href="9780063414792_toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="stylesheet" href="styles/9780063414792_template.css" media-type="text/css"/>
+<item id="nav" href="text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+
+<item id="cover" href="text/9780063414792_cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="title_page" href="text/9780063414792_title_page.xhtml" media-type="application/xhtml+xml"/>
+<item id="Note_to_Reader" href="text/9780063414792_Note_to_Reader.xhtml" media-type="application/xhtml+xml"/>
+<item id="Dedication" href="text/9780063414792_Dedication.xhtml" media-type="application/xhtml+xml"/>
+<item id="Contents" href="text/9780063414792_Contents.xhtml" media-type="application/xhtml+xml"/>
+<item id="Introduction" href="text/9780063414792_Introduction.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter01" href="text/9780063414792_Chapter01.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter02" href="text/9780063414792_Chapter02.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter03" href="text/9780063414792_Chapter03.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter04" href="text/9780063414792_Chapter04.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter05" href="text/9780063414792_Chapter05.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter06" href="text/9780063414792_Chapter06.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter07" href="text/9780063414792_Chapter07.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter08" href="text/9780063414792_Chapter08.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter09" href="text/9780063414792_Chapter09.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter10" href="text/9780063414792_Chapter10.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter11" href="text/9780063414792_Chapter11.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter12" href="text/9780063414792_Chapter12.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter13" href="text/9780063414792_Chapter13.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter14" href="text/9780063414792_Chapter14.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter15" href="text/9780063414792_Chapter15.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter16" href="text/9780063414792_Chapter16.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter17" href="text/9780063414792_Chapter17.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter18" href="text/9780063414792_Chapter18.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter19" href="text/9780063414792_Chapter19.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter20" href="text/9780063414792_Chapter20.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter21" href="text/9780063414792_Chapter21.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter22" href="text/9780063414792_Chapter22.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter23" href="text/9780063414792_Chapter23.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter24" href="text/9780063414792_Chapter24.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter25" href="text/9780063414792_Chapter25.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter26" href="text/9780063414792_Chapter26.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter27" href="text/9780063414792_Chapter27.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter28" href="text/9780063414792_Chapter28.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter29" href="text/9780063414792_Chapter29.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter30" href="text/9780063414792_Chapter30.xhtml" media-type="application/xhtml+xml"/>
+<item id="Backmatter_1" href="text/9780063414792_Backmatter_1.xhtml" media-type="application/xhtml+xml"/>
+<item id="Ack_1" href="text/9780063414792_Ack_1.xhtml" media-type="application/xhtml+xml"/>
+<item id="Index_1" href="text/9780063414792_Index_1.xhtml" media-type="application/xhtml+xml"/>
+<item id="Abouthe_author" href="text/About_the_Author.xhtml" media-type="application/xhtml+xml"/>
+<item id="Also_by" href="text/9780063414792_Also_by.xhtml" media-type="application/xhtml+xml"/>
+<item id="BA" href="text/9780063456778_BA.xhtml" media-type="application/xhtml+xml"/>
+<item id="Copyright" href="text/9780063414792_Copyright.xhtml" media-type="application/xhtml+xml"/>
+<item id="ATP" href="text/About_the_Publisher.xhtml" media-type="application/xhtml+xml"/>
+
+<item id="cover-image" href="images/9780063414792_Cover.jpg" media-type="image/jpeg" properties="cover-image" />
+<item id="title" href="images/title_01.jpg" media-type="image/jpeg"/>
+<item id="bookperk-boba-V1" href="images/bookperk-boba-V1.jpg" media-type="image/jpeg"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="cover"/>
+<itemref idref="title_page"/>
+<itemref idref="Note_to_Reader"/>
+<itemref idref="Dedication"/>
+<itemref idref="Contents"/>
+<itemref idref="Introduction"/>
+<itemref idref="Chapter01"/>
+<itemref idref="Chapter02"/>
+<itemref idref="Chapter03"/>
+<itemref idref="Chapter04"/>
+<itemref idref="Chapter05"/>
+<itemref idref="Chapter06"/>
+<itemref idref="Chapter07"/>
+<itemref idref="Chapter08"/>
+<itemref idref="Chapter09"/>
+<itemref idref="Chapter10"/>
+<itemref idref="Chapter11"/>
+<itemref idref="Chapter12"/>
+<itemref idref="Chapter13"/>
+<itemref idref="Chapter14"/>
+<itemref idref="Chapter15"/>
+<itemref idref="Chapter16"/>
+<itemref idref="Chapter17"/>
+<itemref idref="Chapter18"/>
+<itemref idref="Chapter19"/>
+<itemref idref="Chapter20"/>
+<itemref idref="Chapter21"/>
+<itemref idref="Chapter22"/>
+<itemref idref="Chapter23"/>
+<itemref idref="Chapter24"/>
+<itemref idref="Chapter25"/>
+<itemref idref="Chapter26"/>
+<itemref idref="Chapter27"/>
+<itemref idref="Chapter28"/>
+<itemref idref="Chapter29"/>
+<itemref idref="Chapter30"/>
+<itemref idref="Backmatter_1"/>
+<itemref idref="Ack_1"/>
+<itemref idref="Index_1"/>
+<itemref idref="Abouthe_author"/>
+<itemref idref="Also_by"/>
+<itemref idref="BA"/>
+<itemref idref="Copyright"/>
+<itemref idref="ATP"/>
+</spine>
+<guide>
+<reference type="cover" title="Cover Image" href="text/9780063414792_cover.xhtml"/>
+<reference type="toc" title="Table of Contents" href="text/nav.xhtml"/>
+<reference type="text" title="Start" href="text/9780063414792_title_page.xhtml"/>
+</guide>
+</package>

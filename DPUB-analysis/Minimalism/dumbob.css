@@ -1,0 +1,90 @@
+@page {
+	margin : 0.5em;
+}
+body.social
+{
+background-color:#FFF200;
+}
+
+
+p.Body-copy {
+	font-family : sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.00em;
+	text-align : center;
+	margin : 20px 0px 20px 0px;
+}
+p.Headline {
+	font-family : sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 2.00em;
+	text-align : center;
+	margin : 0px 0px 15px 0px;
+}
+p.Headline-Cross {
+	font-family : sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 2.00em;
+	text-align : center;
+   	color: 	#005F8B;
+	margin : 0px 0px 15px 0px;
+}
+p.Logo {
+	font-family : sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.00em;
+	text-align : center;
+	margin : 5px 0px 0px 0px;
+}
+p.Logo-Text {
+	font-family : sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.9em;
+	text-align : center;
+	margin : 0px 0px 20px 0px;
+}
+p.Book-Cover {
+	font-family : sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.00em;
+	text-align : center;
+	margin : 5px 0px 0px 0px;
+}
+p.Book-Text {
+	font-family : sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.9em;
+	text-align : center;
+	margin : 0px 0px 2px 0px;
+}
+p.Book-ISBN {
+	font-family : sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.9em;
+	text-align : center;
+	margin : 0px 0px 2px 0px;
+}
+p.Buy-Book {
+	font-family : sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.9em;
+	text-align : center;
+	margin : 0px 0px 20px 0px;
+}
+p.Dummies-Logo {
+	font-family : sans-serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1.00em;
+	text-align : center;
+	margin : 40px 0px 0px 0px;
+}

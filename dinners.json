@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Fish and Chips",
+    "protein": "fish",
+    "origin": "British",
+    "recipe": ""
+  },
+  {
+    "name": "Goulash Soup",
+    "protein": "beef",
+    "origin": "German",
+    "recipe": ""
+  },
+  {
+    "name": "Pork chops with sour cream and applesauce",
+    "protein": "pork",
+    "origin": "American",
+    "recipe": ""
+  }
+]

@@ -2,8 +2,8 @@
 # My first Python program
 # This will collect dinners we have had and offer suggestions on what to have.
 
-# October 17, 2026 Copilot generated:
-
+# October 19, 2026 Copilot generated:
+__version__ = "0.1.0"
 from dataclasses import asdict, dataclass
 import json
 from pathlib import Path
@@ -15,7 +15,7 @@ class Entree:
     origin: str
     recipe: str = ""
 class DinnerLibrary:
-    def __init__(self, filename: str = "dinners.json") -> None:
+    def __init__(self, filename: str = "C:/Users/kersc/OneDrive/George-files/dinners.json") -> None:
         self.path = Path(filename)
         self.entrees = self.load()
     def load(self) -> list[Entree]:

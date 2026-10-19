@@ -2,8 +2,8 @@
 # My first Python program
 # This will collect dinners we have had and offer suggestions on what to have.
 
-# October 18, 2026 Copilot generated:
-
+# October 19, 2026 Copilot generated:
+__version__ = "0.1.0"
 from dataclasses import asdict, dataclass
 import json
 from pathlib import Path

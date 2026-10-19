@@ -160,5 +160,11 @@
     "protein": "ham",
     "origin": "American",
     "recipe": ""
+  },
+  {
+    "name": "Chop Suey",
+    "protein": "pork",
+    "origin": "Chinese",
+    "recipe": ""
   }
 ]

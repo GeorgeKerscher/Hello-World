@@ -166,5 +166,17 @@
     "protein": "pork",
     "origin": "Chinese",
     "recipe": ""
+  },
+  {
+    "name": "Vegie salad",
+    "protein": "veg",
+    "origin": "American",
+    "recipe": ""
+  },
+  {
+    "name": "Appleby's Southwestern salad",
+    "protein": "Chicken",
+    "origin": "American",
+    "recipe": ""
   }
 ]

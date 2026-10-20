@@ -2,8 +2,8 @@
 # My first Python program
 # This will collect dinners we have had and offer suggestions on what to have.
 
-# October 19, 2026 Copilot generated:
-__version__ = "0.1.0"
+# October 20, 2026 Copilot generated:
+__version__ = "0.1.1"
 
 from dataclasses import asdict, dataclass
 import json
@@ -77,7 +77,7 @@ class DinnerApp:
         print("Add a dinner. You can press Ctrl+C to stop the program.")
         entree = Entree(
             name=self.ask_required("Entree name: "),
-            protein=self.ask_required("Protein: "),
+            protein=self.ask_required("Protein (separate multiple proteins with commas): "),
             origin=self.ask_required("Cuisine or ethnic origin: "),
             recipe=input("Recipe URL or file path (optional): ").strip(),
         )
@@ -87,11 +87,17 @@ class DinnerApp:
         if not self.library.entrees:
             print("No dinners are saved yet. Choose Add a dinner first.")
             return
-        protein_filter = input("Protein filter, or press Enter for any protein: ").strip().casefold()
+        protein_filter = input("Protein filter (one protein), or press Enter for any protein: ").strip().casefold()
         origin_filter = input("Cuisine or origin filter, or press Enter for any: ").strip().casefold()
         matches = [
             entree for entree in self.library.entrees
-            if (not protein_filter or protein_filter in entree.protein.casefold())
+            if (
+                not protein_filter
+                or protein_filter in {
+                    protein.strip().casefold()
+                    for protein in entree.protein.split(",")
+                }
+            )
             and (not origin_filter or origin_filter in entree.origin.casefold())
         ]
         if not matches:
@@ -129,7 +135,9 @@ class DinnerApp:
                 values[field] = value.strip()
         print("Review the recipe details. Enter any missing information.")
         name = values.get("name") or input("Entree name: ").strip()
-        protein = values.get("protein") or input("Protein: ").strip()
+        protein = values.get("protein") or input(
+            "Protein (separate multiple proteins with commas): "
+        ).strip()
         origin = values.get("origin") or input("Cuisine or ethnic origin: ").strip()
         recipe = values.get("recipe", str(file_name))
         if not name or not protein or not origin:

@@ -7,7 +7,6 @@ __version__ = "0.1.0"
 from dataclasses import asdict, dataclass
 import json
 from pathlib import Path
-import random
 @dataclass
 class Entree:
     name: str
@@ -95,9 +94,10 @@ class DinnerApp:
         if not matches:
             print("No saved dinners match those filters.")
             return
-        suggestion = random.choice(matches)
-        print("Dinner suggestion:")
-        self.describe(suggestion)
+        print("Matching dinners:")
+        for number, entree in enumerate(matches, start=1):
+            print(f"Dinner {number}.")
+            self.describe(entree)
     def list_entrees(self) -> None:
         if not self.library.entrees:
             print("No dinners are saved yet.")

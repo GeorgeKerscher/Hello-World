@@ -15,7 +15,7 @@ class Entree:
     origin: str
     recipe: str = ""
 class DinnerLibrary:
-    def __init__(self, filename: str = "dinners.json") -> None:
+    def __init__(self, filename: str = "C:/users/kersc/OneDrive/George-files/dinners.json") -> None:
 
 
         self.path = Path(filename)
